@@ -1,0 +1,101 @@
+/** desktop navigation **/
+.slicknav_menu{
+  position: absolute;
+    right: 0;
+    top: 0px;
+    width: 50%;
+    text-align: right;
+        padding-right: 20px;
+        
+    @media screen and (min-width: $tablet){
+      top: 20px;
+    }
+  @media screen and (min-width: $tablet){
+    display: none;
+  }
+  
+  a{
+    color: white!important;
+  }
+}
+.slicknav_nav{
+  position: absolute;
+    z-index: 9999;
+    width: 100%;
+    display: block;
+    background-color: $darkerblue;
+    .menu {
+      list-style: none;
+      padding: 0;
+      display: block;
+      width: 100%;
+          padding-right: 20px;
+  }
+  .menu-item {
+    display: block;
+    width: 100%;
+    padding-right: 20px;
+        margin-bottom: 20px;
+}
+}
+.site-navigation{
+  display: none;
+  float: right;
+  
+  @media screen and (min-width: $tablet){
+    display: block;
+  }
+
+  ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li{
+    float: left;
+    display: inline-block;
+    padding: 20px 0;
+    position:relative;
+    a{
+      padding: 10px;
+      margin: 10px 20px;
+      color: white;
+      
+      &:hover{
+        color: $yellow;
+      }
+    }
+    &.is-active a{
+      color: $yellow;
+    }
+    &:hover > ul{
+	   display:block
+    }
+    .dropdown{
+    	display:none;
+    	position:absolute;
+    	top:100%;
+    	left:0;
+    	padding:0;
+      z-index: 9999;
+      background-color: $darkerblue;
+      width: 300px;
+      li{
+        display: block;
+        padding: 10px 10px 10px 20px;
+        float: none;
+        width: 100%;
+        
+        a{
+          margin: 0;
+          padding: 0;
+          color: white!important;
+          
+          &:hover{
+            color: $yellow!important;
+          }
+        }
+      }
+    }
+  }
+}

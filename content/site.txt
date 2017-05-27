@@ -1,0 +1,33 @@
+Title: A Web Strategy
+
+----
+
+Author: Amy Westlake
+
+----
+
+Description: This is Kirby's Starterkit.
+
+----
+
+Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+
+----
+
+Seotitle: AW Web Strategy
+
+----
+
+Seodescription: Affordable and Reliable Web Development, Social Media Marketing, Search Engine Optimisation and Email Marketing for small local businesses.
+
+----
+
+Googlevalidate: 
+
+----
+
+Bingvalidate: 
+
+----
+
+Googleanalytics: 

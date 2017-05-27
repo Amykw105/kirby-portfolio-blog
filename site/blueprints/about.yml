@@ -1,0 +1,34 @@
+title: About
+
+pages:
+  num: zero
+
+files: true
+pages: false
+
+options: 
+  template: false  
+  status: false  
+  
+fields:
+  title:
+    label: Title
+    type: title
+    
+  intro:
+    label: Intro
+    type: textarea
+    
+  text:
+    label: Text
+    type: textarea
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2

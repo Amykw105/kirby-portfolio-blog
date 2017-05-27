@@ -1,0 +1,9 @@
+Title: Blog
+
+----
+
+Text: The latest from my blog
+
+----
+
+Perpage: 2

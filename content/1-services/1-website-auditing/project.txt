@@ -1,0 +1,47 @@
+Title: Website Auditing
+
+----
+
+Year: 
+
+----
+
+Text: 
+
+A complete and detailed audit will give you a deeper understanding as to why your site is not generating the traffic you hope for. A website audit is not just about SEO, it's also about website speed, responsiveness, design, content, and code quality. 
+
+## What I'll do
+
+1. Test website for speed, code quality, SEO and performance
+2. Evaluate website design and content
+3. Review website analytics and performance
+4. Provide a detailed report with the above data
+5. Offer suggestions for improvements
+
+### What happen's next
+
+If you're website needs some improvements we can look to redesign, restructure and (link: /services/website-design-development text: rebuild your website).
+
+----
+
+Class: wa
+
+----
+
+Sectionheading: Is your website supporting your business?
+
+----
+
+Category: Website Auditing
+
+----
+
+Calltoaction: Need a website audit?
+
+----
+
+Seotitle: Website auditing to evaluate your online business reach
+
+----
+
+Seodescription: Is your website reaching its potential? Is it bringing customers and giving a good impression of your business? A website audit will highlight areas to improve

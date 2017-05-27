@@ -1,0 +1,50 @@
+title: Home
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  heading:
+    label: Heading
+    type:  text
+
+  intro:
+    label: Intro
+    type:  textarea
+
+  text:
+    label: Text
+    type:  textarea
+    
+  calltoimage:
+    label: Call To Action Image
+    type: image
+        
+  calltoactionlabel:
+    label: Call To Action Label
+    type: text
+    
+  calltolink:
+    label: Call To Action Link
+    type: text
+
+  class:
+    label: Body class
+    type: text
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2
+
+  calltoaction:
+    label: Call To Action
+    type: text

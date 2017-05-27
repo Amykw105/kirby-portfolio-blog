@@ -1,0 +1,9 @@
+{
+  "name": "kirby-keyword-map",
+  "description": "SEO keyword map for Kirby CMS panel",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.5",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "link": "https://github.com/jenstornell/kirby-keyword-map"
+}

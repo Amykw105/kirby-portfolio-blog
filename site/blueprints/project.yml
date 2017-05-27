@@ -1,0 +1,42 @@
+title: Project
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  sectionheading:
+    label: Section Heading
+    type: text
+    
+  text:
+    label: Text
+    type:  textarea
+
+  class:
+    label: SVG class
+    type: text
+
+  category:
+    label: Category
+    type: text
+    
+  calltoaction:
+    label: Call To Action Text
+    type: text
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2

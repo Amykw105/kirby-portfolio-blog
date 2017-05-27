@@ -1,0 +1,49 @@
+Title: Email Campaigns & Marketing
+
+----
+
+Year: 2013
+
+----
+
+Text: 
+
+Even with the popularity of (link: /services/social-media-management text: social media), email shouldn't be forgotten. Email is one of the most powerful ways to connect with your customers. 
+
+Whether you need to sell your products, share some news, or announce an event,  an email campaign will reach the customers who want to hear about your business. 
+
+## What I'll do 
+
+1. Set up a MailChimp account, this will handle your mailing list and sending out the emails
+2. Create two sign up forms, one for your website and one for your Facebook page
+3. Create an email template designed for your business, ready for your email content
+4. Offer training on sending out regular emails
+5. Send out monthly or weekly emails depending on your business needs
+
+### How this will help your business
+
+Email marketing allows your business to target a group of customers and directly market your products and services. It has the benefit of being able to give exclusive offers to your loyal customers and increasing business awareness.
+
+----
+
+Class: em
+
+----
+
+Sectionheading: Connect with your audience through Email
+
+----
+
+Category: Email Marketing
+
+----
+
+Calltoaction: Need an email campaign?
+
+----
+
+Seotitle: Email marketing campaigns for small businesses
+
+----
+
+Seodescription: Want to create a list of loyal customers who you can regularly advertise to?  With email marketing campaigns you can communicate directly to your customers.

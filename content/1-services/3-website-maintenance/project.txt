@@ -1,0 +1,44 @@
+Title: Website Maintenance
+
+----
+
+Year: 2012
+
+----
+
+Text: 
+
+Websites will not perform for your business if it's not updated regularly. This obviously takes time and if you're running a business, your website is unlikely to be your top priority. That's where I can help. 
+
+An up to date website will not only increase your search engine ratings but also give a better impression to your customers - they'll let you know if it's out of date and that will give them a poor impression of your business. Incorrect opening times and contact details can not only be frustrating for your customers but may also prevent them from becoming paying customers - if they can't contact you, how will they buy from you?
+
+## What I'll do
+
+1. (link: /services/website-audit text: Assess your existing website) and gather your update requirements
+2. Take a full backup of your website
+3. Integrate the new updated into your site and publish any new content
+4. Launch your new website changes
+
+----
+
+Class: wm
+
+----
+
+Sectionheading: Already got a website but no time to maintain it?
+
+----
+
+Category: Website Maintenance
+
+----
+
+Calltoaction: Need to update your website?
+
+----
+
+Seotitle: Website maintenance to keep your website performing
+
+----
+
+Seodescription: Is your website content out of date? Not written a blog post in a few months? Outdated website content is frustrating and can harm your website performance

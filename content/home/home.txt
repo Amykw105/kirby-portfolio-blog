@@ -1,0 +1,52 @@
+Title: Website and Social Media Marketing for small local businesses
+
+----
+
+Intro: Connect with your audience, attract new customers and boost profits
+
+----
+
+Text: 
+
+## Get started
+
+- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
+- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
+- Follow (twitter: @getkirby) on Twitter for updates
+- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
+- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
+- (link: http://getkirby.com/support text: Get in contact) if you need support.
+
+**Have fun with Kirby!**
+
+----
+
+Calltoaction: Know what you need?
+
+----
+
+Calltolink: bbc.co.uk
+
+----
+
+Calltoimage: website-strategy-and-social-media-management.jpg
+
+----
+
+Class: homepage
+
+----
+
+Heading: DIGITAL MARKETING STRATEGY FOR YOUR BUSINESS
+
+----
+
+Seotitle: Affordable Web Development and Social Media Management
+
+----
+
+Seodescription: Connect with your audience, attract new customers and boost profits
+
+----
+
+Calltoactionlabel: Get Started

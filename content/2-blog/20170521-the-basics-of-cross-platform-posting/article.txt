@@ -1,0 +1,101 @@
+Title: The basics of cross-platform posting
+
+----
+
+Coverimage: cross-platform-posting-social-media-marketing.jpg
+
+----
+
+Listingimage: 
+
+----
+
+Date: 2017-05-21
+
+----
+
+Category: Social Media Management
+
+----
+
+Tags: social media marketing,content marketing
+
+----
+
+Text: 
+
+Want to get your articles noticed online? If your website or blog doesn't get many monthly visitors you could benefit from cross-posting your content to various social platforms get to noticed and draw traffic to your site. This may seem like an obvious tactic but what a lot of businesses don't do is tailor their content for the platform they're posting on. By posting the same image and text across all platforms you are missing out on a huge opportunity for your content to stand out. This post outlines the best way to tailor your content for the platform you're posting on. 
+
+## Facebook
+
+Facebook posts can contain up to 10,000 characters but only show the **first 480**. Be warned that posts with around 50 characters get more engagement than those that are longer so while it may be tempting to post your entire article, you'll get much more attention by posting a snippet and linking back to your site. 
+
+Consider using an image (posts with images work better than those that don’t), and include a link to your post in the text field. Add personal comments and invite readers to give their opinion. Creating your post as an image rather than a link provides other benefits too, it will automatically get added to your photo gallery and will remain accessible even after more posting. Posting a link will mean that your content could get lost in the future after you’ve continued to post. 
+
+**Don’t bother with hashtags**, yes they can turn your posts into searchable content, but hashtags have not been proven to provide any benefit to Facebook posts. 
+
+Share the post on your profile and in various groups, try at different times of the day and with different text. Don’t post more than once per day on your profile or in groups, but do come back and repost after a couple of weeks in-between other valuable content. 
+
+Target lunch times and after work, post between 1pm and 4pm and 6pm to 10pm for optimum reach. 
+
+## Twitter
+
+Twitter recently updated to the character limit allowing images to no longer take up 20 out of the **140 characters available**. Tweets with images and links work best. Try to add at least **one hashtag** but no more than four. If you can include credit, use @ handles to link to other users and add some kind of call to action, for example, ask for retweets, opinions or follows. 
+
+The best times for posting on Twitter are morning, lunch and early evening. Try **8am - 10am**, **11am - 1pm** and ** 4pm - 7pm**.
+
+Tweets can easily be buried and generally don’t get much attention after roughly 20 mins. This is when repeated posting can be used, post the content up to four times a day and then weekly. 
+
+## LinkedIn
+
+If you’re posting professional articles or targeting business people, try posting to your profile and pages on LinkedIn. Your posts can have up to 600 characters but only the **first 150 will be shown**, so try to limit it. Use professional images and links, personal and engaging text and encourage users to comment on your post. 
+
+The best times to post on LinkedIn is between **8am - 10am** and **4pm - 6pm**. 
+
+LinkedIn posts can be reposted, but no more than once a day. Try posting twice a week and then reduce it to once a month. 
+
+## Pinterest
+
+For Pinterest, the image you choose to use is key, this is what will draw attention to your pin. You’ll also get 500 characters to work with but try to keep you descriptions **under 300** and include up to five hashtags. 
+
+Pin your content to relevant boards and any group boards you may be part of. Add a link to your site and a call to action in the pin descriptions to draw traffic. 
+
+Post pins between **11am - 2pm** and **7pm - 10pm**, but you don’t have to stick to this. Unlike other social networks Pinterest pins don’t have an expiry date, they will continue to be found by hashtag long after you’ve pinned them. 
+
+If you want to repin for maximum reach, try using different images from your blog content and use small variations in the pin descriptions. 
+
+> (link: /blog/pinterest-headlines-to-drive-traffic-to-your-site text: Need help writing eye-catching headlines for your Pins? I've written a helpful article here!)
+
+## Instagram
+
+If you’ve already got a solid Instagram profile there’s no harm in posting your blog content there too. Instagram posts usually only last a few hours, so reposting every few days is acceptable but try to vary the images that you use. 
+
+The different with Instagram is that your post will be totally image based, your description won’t be shown unless someone clicks on your image or your is in their feed. **Keep your images square **(ideally 1080px x 1080px) and your descriptions can be up to 2,200 characters. Keep key information in the **first 155 characters** as these will be shown in timelines. 
+
+Hashtags are vital for Instagram success, try to use **at least 11**, but **no more than 30**. Use your article keywords as hashtags but also try to be creative with them for maximum reach. 
+
+Unfortunately Instagram doesn’t allow for clickable links in your descriptions. That doesn’t mean you can’t include them, just that they won’t be clickable. Quite often users will update the link in their bio to the latest article they are promoting and then in the image description, guide the user to the bio link. 
+
+The best time for posting is around midday and in the evenings, **11am - 1pm** and **6pm - 8pm**. 
+
+## Medium
+
+Medium is a great place to post your well written content. Medium prioritises quality over everything else, its not a typical blog or magazine, it shows the articles with the best quality writing rather than whats currently popular or most recently posted.
+
+Medium is meant for story telling, it gives a voice to people who have something to say. The platform is clean and makes any article look great with its minimal design and layout. The key feature here is that it allows for your content to be hosted on their platform as well as your own site. You can post your entire article on Medium and include various links throughout the text that take the user to your site. Once you’ve published your article on Medium you can submit it to themed categories, which is essentially the same as hashtags, it allows your content to be found by category. 
+
+To make the most of Medium ensure you encourage discussion through user comments and place plenty of links throughout the article to your website. 
+
+## Conclusion
+
+Cross posting your content on social media will help draw traffic to your blog, but its important that you slightly vary your content in order to not look like spam, as this can get you reported and possibly banned from the networks. You’ll also need to tailor your content to each network and monitor which get you the most results.
+
+> (link: /services/social-media-management text: Need help cross-posting your content to your social profiles? I offer social media management services and can take care of tailoring your content for each social network to boost your content reach. )
+
+----
+
+Seotitle: The basics of cross-platform posting to promote your content
+
+----
+
+Seodescription: Want to get your articles noticed online? This post outlines the best ways to cross-post your content for maximum reach to drive traffic to your site.

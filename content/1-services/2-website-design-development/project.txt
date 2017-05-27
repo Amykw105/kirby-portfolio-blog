@@ -1,0 +1,61 @@
+Title: Website Design & Development
+
+----
+
+Year: 2012
+
+----
+
+Text: 
+
+Your website is your online business card, accessible 24/7, allowing your customers to interact with your business even when your business is closed. 
+
+Your website should be responsive, built with Search Engine Optimisation in mind, using modern technologies and accessible to everyone. 
+
+## Built your own site with Wix/Squarespace/Weebly?
+
+Free build-your-own websites may look great to begin with, but you'll soon notice that it doesn't perform as well as it should. With little access to the code you are limited in features and with the SEO that you can do, potentially harming your rankings. Some of these website builders even block your website from appearing in Google until you pay extra, that will never happen with a custom developed website. 
+
+### What I'll do
+
+1. Run an (link: /services/website-audit text: audit) on your existing website if you have one
+2. Discuss your design preferences
+3. Gather your content and images to promote your business
+4. Build your new mobile-friendly, (link: /services/search-engine-optimisation text: search engine optimised) website
+5. Test your new website on a range of devices and browsers
+6. Launch your brand new website and promote it on your (link: /services/social-media-management text: social networks)
+
+### Technologies I will use to build your website
+
+1. HTML & CSS - How your website will look on the screen
+2. JavaScript - How your users will interact with the website
+3. PHP & MYSQL - How your website data will be controlled
+4. GIT - For taking regular backups of your website code
+
+### Want to update the code yourself?
+
+A content management system will allow you to make regular updates to your website without paying for a maintenance fee. Depending on your website requirements your site will either be built with WordPress, Laravel or Kirby. If you choose one of these options you'll get full training on how to update your content.  If you don't want to update your content regularly, a simple, static site may be the cheapest option.
+
+----
+
+Class: wdd
+
+----
+
+Sectionheading: Affordable, professional websites for your business
+
+----
+
+Category: Web Design & Development
+
+----
+
+Calltoaction: Website need a redesign?
+
+----
+
+Seotitle: Affordable and professional website design and development
+
+----
+
+Seodescription: Is your website performing for your business? Website not appearing on Google? An optimised website should be the first thing in your online business strategy.

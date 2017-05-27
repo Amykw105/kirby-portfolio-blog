@@ -1,0 +1,46 @@
+title: Article
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  title
+    
+  coverimage:
+    label: Cover Image
+    type: image
+    width: 1/2
+    
+  date:
+    icon: calendar
+    label: Date
+    type: date
+    format: LL
+    placeholder: Select a date…
+    default: today
+    required: true
+    width: 1/2
+
+  category:
+    label: Category
+    type: text
+    width: 1/2
+    
+  tags:
+    label: Tags
+    type: tags
+    
+  text:
+    label: Text
+    type: textarea
+    
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2

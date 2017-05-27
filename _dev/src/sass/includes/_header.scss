@@ -1,0 +1,26 @@
+.main-header{
+  background-color: $darkerblue;
+  padding: 10px 0;
+  
+  .wrapper{
+    position: relative;
+  }
+}
+.branding{
+  float: left;
+  width: auto;
+
+  
+
+  a {
+    display: block;
+  }
+  img {
+    max-height: 70px;
+    padding: 7px;
+      max-width: 200px;
+      @media screen and (min-width: $mobile){
+        max-width: none;
+      }
+  }
+}

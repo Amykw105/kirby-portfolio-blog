@@ -1,0 +1,44 @@
+title: Site
+
+pages: default
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  author:
+    label: Author
+    type:  text
+
+  description:
+    label: Description
+    type:  textarea
+    
+  copyright:
+    label: Copyright
+    type:  textarea
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2
+
+  googleValidate:
+    label: Google Validation
+    type:  text
+    width: 1/2
+    
+  bingValidate:
+    label: Bing Validation
+    type:  text
+    width: 1/2
+
+  googleAnalytics:
+    label: Analytics Code
+    type:  text

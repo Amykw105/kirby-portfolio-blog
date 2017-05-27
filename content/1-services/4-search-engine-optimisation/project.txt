@@ -1,0 +1,53 @@
+Title: Search Engine Optimisation
+
+----
+
+Year: 2014
+
+----
+
+Text: 
+
+Every business is different, so your website should be too. If it doesn't stand out, you won't get noticed. Your website needs to be tailored to your business and your customer’s needs, to do this your (link: /services/website-audit text: website will be analysed) to get an idea of how it is performing online and how it could be improved.
+
+SEO doesn't end there. Offsite factors such as Google Business pages, social media accounts and printed advertising, are also important for boosting your websites audience. Successful SEO is about outranking your competitors and attracting new customers.
+
+## What I'll do
+
+1. Evaluate your business targets and research keywords
+2. Evaluate your existing website and social media accounts
+3. Ensure your Google Business page is complete or create one if you don't have one
+4. Integrate new keywords, titles, descriptions and content into your website
+5. Run an SEO audit on your updated website
+6. Resubmit your site to Google and Bing
+7. Monitor your search engine activity and analytics
+
+### How SEO will help your business
+
+Having a great looking website is not enough if no one can find it.
+
+ The more people who can find your business online, the more potential customers you can reach.
+
+----
+
+Class: seo
+
+----
+
+Category: SEO
+
+----
+
+Sectionheading: Would you like better search engine ratings?
+
+----
+
+Calltoaction: Need better Google ratings?
+
+----
+
+Seotitle: Search Engine Optimisation for small, local businesses
+
+----
+
+Seodescription: Website not appearing on Google? Want your business to get more online attention? If customers can't find your website, how will they find your business?

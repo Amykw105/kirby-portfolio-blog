@@ -1,0 +1,21 @@
+Title: Services
+
+----
+
+Text: 
+
+----
+
+Seotitle: The services I offer to help your business succeed online
+
+----
+
+Seodescription: Does your business need help succeeding online? I can help with your website, social media, email marketing and search engine optimisation
+
+----
+
+Class: services
+
+----
+
+Heading: Does your business need an online strategy?
