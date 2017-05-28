@@ -99,3 +99,19 @@ Seotitle: The basics of cross-platform posting to promote your content
 ----
 
 Seodescription: Want to get your articles noticed online? This post outlines the best ways to cross-post your content for maximum reach to drive traffic to your site.
+
+----
+
+Twitterimage: 
+
+----
+
+Pinterestimage: the-basics-of-cross-platform-posting.png
+
+----
+
+Facebookimage: 
+
+----
+
+Googleimage: 

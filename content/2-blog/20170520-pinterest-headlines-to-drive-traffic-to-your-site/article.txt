@@ -103,3 +103,19 @@ Seotitle: 6 Pinterest headlines to drive traffic to your site
 ----
 
 Seodescription: Need help writing Pinterest headlines? Pins not bringing in enough traffic? Try these 6 headline styles to help your pins stand out in the crowd
+
+----
+
+Twitterimage: 
+
+----
+
+Pinterestimage: 6-pinterest-headlines.png
+
+----
+
+Facebookimage: 
+
+----
+
+Googleimage: 

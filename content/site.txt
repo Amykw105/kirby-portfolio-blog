@@ -31,3 +31,19 @@ Bingvalidate:
 ----
 
 Googleanalytics: 
+
+----
+
+Twitterimage: a-web-strategy-twitter-card.png
+
+----
+
+Pinterestimage: a-web-strategy-pinterest-card.png
+
+----
+
+Facebookimage: a-web-strategy-facebook-card.png
+
+----
+
+Googleimage: a-web-strategy-google-card.png

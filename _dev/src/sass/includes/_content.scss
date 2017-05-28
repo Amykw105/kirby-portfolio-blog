@@ -433,3 +433,29 @@ body.services{
     }
   }
 }
+.success {
+    background-color: #4BB543;
+    
+    ul{
+      list-style-type: none;
+      padding: 15px;
+      margin: 0;
+    }
+    li{
+      display: block;
+      text-align: center;
+    }
+}
+.error {
+    background-color: #A11517;
+    
+    ul{
+      list-style-type: none;
+      padding: 15px;
+      margin: 0;
+    }
+    li{
+      display: block;
+      text-align: center;
+    }
+}
