@@ -18,7 +18,7 @@ Free build-your-own websites may look great to begin with, but you'll soon notic
 
 ### What I'll do
 
-1. Run an (link: /services/website-audit text: audit) on your existing website if you have one
+1. Run an (link: /services/website-auditing text: audit) on your existing website if you have one
 2. Discuss your design preferences
 3. Gather your content and images to promote your business
 4. Build your new mobile-friendly, (link: /services/search-engine-optimisation text: search engine optimised) website

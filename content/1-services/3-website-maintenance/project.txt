@@ -14,7 +14,7 @@ An up to date website will not only increase your search engine ratings but also
 
 ## What I'll do
 
-1. (link: /services/website-audit text: Assess your existing website) and gather your update requirements
+1. (link: /services/website-auditing text: Assess your existing website) and gather your update requirements
 2. Take a full backup of your website
 3. Integrate the new updated into your site and publish any new content
 4. Launch your new website changes

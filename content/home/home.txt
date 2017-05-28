@@ -25,7 +25,7 @@ Calltoaction: Know what you need?
 
 ----
 
-Calltolink: bbc.co.uk
+Calltolink: /contact
 
 ----
 

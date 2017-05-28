@@ -6,7 +6,7 @@
       <div class="overlay"></div>
       <div class="wrapper">
         <div class="banner-content">
-          <p class="intro-large"><?= $page->text()->html() ?></p>
+          <h1 class="intro-large"><?= $page->text()->html() ?></h1>
         </div>
       </div>
     </div>

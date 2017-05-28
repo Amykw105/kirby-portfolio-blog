@@ -77,7 +77,7 @@
   
   <script type="text/javascript">
   WebFontConfig = {
-    google: { families: [ 'Copse+Muli' ] }
+    google: { families: [ 'Copse|Muli' ] }
   };
   (function() {
     var wf = document.createElement('script');

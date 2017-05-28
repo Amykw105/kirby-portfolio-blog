@@ -40,3 +40,14 @@ fields:
       To fill the blog page with content, just hit the <b>Add</b> button
       to create a new article. Your blog articles will be automatically ordered by
       date.
+      
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2

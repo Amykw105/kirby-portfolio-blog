@@ -1,7 +1,13 @@
 .main-header{
   background-color: $darkerblue;
   padding: 10px 0;
-  
+  @media screen and (max-width: $tablet){
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+  }
   .wrapper{
     position: relative;
   }
