@@ -1,6 +1,6 @@
 .main-header{
   background-color: $darkerblue;
-  padding: 10px 0;
+  padding: 10px 0 0;
   @media screen and (max-width: $tablet){
     position: fixed;
     top: 0;
@@ -22,14 +22,12 @@
     display: block;
   }
   img {
-    max-height: 70px;
-    padding: 7px;
-      max-width: 200px;
+    max-height: 100px;
       @media screen and (min-width: $mobile){
         max-width: none;
       }
   }
-}
+} 
 .open-fixed {
     position: absolute;
     .slicknav_nav {

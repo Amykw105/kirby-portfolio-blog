@@ -40,8 +40,8 @@
     <div class="footer-copyright">&copy; 2017 A Web Strategy</div>
   </footer>
   <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
-  <script type="text/javascript" src="assets/js/libs.min.js"></script>
-  <script type="text/javascript" src="assets/js/scripts.min.js"></script>
+  <script type="text/javascript" src="/kirby/assets/js/libs.min.js"></script>
+  <script type="text/javascript" src="/kirby/assets/js/scripts.min.js"></script>
   <!-- Google Analytics -->
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

@@ -21,7 +21,7 @@ if(isset($limit)) $services = $services->limit($limit);
 ?>
 
 <ul class="services-listing">
-  <p class="section-heading">How I can help your business</p>
+  <p class="section-heading">What your pub needs for a successful online strategy</p>
   <?php foreach($services as $service): ?>
 
     <li class="services-item">

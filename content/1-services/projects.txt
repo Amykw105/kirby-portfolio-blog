@@ -6,11 +6,11 @@ Text:
 
 ----
 
-Seotitle: The services I offer to help your business succeed online
+Seotitle: The services I offer to help your pub or bar succeed online
 
 ----
 
-Seodescription: Does your business need help succeeding online? I can help with your website, social media, email marketing and search engine optimisation
+Seodescription: Does your pub need help succeeding online? I can help with your website, social media, email marketing and search engine optimisation
 
 ----
 
@@ -18,4 +18,4 @@ Class: services
 
 ----
 
-Heading: Does your business need an online strategy?
+Heading: Online marketing for pubs and bars

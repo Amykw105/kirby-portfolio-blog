@@ -1,0 +1,88 @@
+title: Client
+
+files:
+  sortable: true
+
+pages: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    width: 3/4
+
+  sectionheading:
+    label: Section Heading
+    type: text
+    
+  text:
+    label: Text
+    type:  textarea
+
+  link:
+    label: Link
+    type: text
+    width: 1/2
+    
+  mainimage:
+    label: Image
+    type:  image
+    width: 1/2
+    
+  banner:
+    label: Banner
+    type:  image
+    width: 1/2
+            
+  thumbnail:
+    label: Thumbnail
+    type:  image
+    width: 1/2
+        
+  category:
+    label: Category
+    type: tags
+    
+  secondsectionheading:
+    label: Second Section Heading
+    type: text
+
+  fblikes:
+    label: Facebook Likes
+    type: text
+    width: 1/2
+    
+  fbchecks:
+    label: Facebook Check Ins
+    type: text
+    width: 1/2
+    
+  twfollowers:
+    label: Twitter Followers
+    type: text
+    width: 1/2
+    
+  twtweets:
+    label: Twitter Tweets
+    type: text
+    width: 1/2
+    
+  igfollowers:
+    label: Instagram Followers
+    type: text
+    width: 1/2
+    
+  iglikes:
+    label: Instagram Likes Avg.
+    type: text
+    width: 1/2
+
+  SEOtitle:
+    label: SEO Title
+    type: text
+    width: 1/2
+    
+  SEOdescription:
+    label: SEO Description
+    type: text
+    width: 1/2

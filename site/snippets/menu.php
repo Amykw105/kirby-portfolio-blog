@@ -5,7 +5,7 @@
       <a href="<?= $item->url() ?>"><?= $item->title()->html() ?></a>
       <?php if($item->title() == 'Services'): ?>
         <ul class="dropdown">
-        <?php foreach($item->children() as $items): ?>
+        <?php foreach($item->children()->visible() as $items): ?>
           <li class="menu-item">
             <a href="<?= $items->url() ?>"><?= $items->title()->html() ?></a>
           </li>

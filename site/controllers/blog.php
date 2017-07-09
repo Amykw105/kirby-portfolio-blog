@@ -25,7 +25,7 @@
 return function($site, $pages, $page) {
 
   // get all articles and add pagination
-  $articles = $page->children()->visible()->flip()->paginate(20);
+  $articles = $page->children()->visible()->sortBy('date', 'desc')->paginate(20);
 
   // add a tag filter
   if($tag = param('tag')) {

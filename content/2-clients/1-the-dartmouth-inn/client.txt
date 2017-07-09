@@ -1,0 +1,77 @@
+Title: The Dartmouth Inn
+
+----
+
+Sectionheading: The Dartmouth Inn Website
+
+----
+
+Text: I relaunched the (link: https://dartmouthinntotnes.co.uk text: Dartmouth Inn’s website) to modernise and improve (link: /services/search-engine-optimisation text: local search rankings). The website part of this project is now complete but the SEO, print, social media and email campaigns are ongoing monthly updates.
+
+----
+
+Class: 
+
+----
+
+Category: HTML,CSS,jQuery,SEO,MailChimp,Social Media,Microdata,PHP
+
+----
+
+Calltoaction: 
+
+----
+
+Seotitle: The Dartmouth Inn - Website design & development client
+
+----
+
+Seodescription: Clients: Dartmouth Inn - Website design & development, social media management, MailChimp marketing, search engine optimisation, custom Facebook feed.
+
+----
+
+Link: https://dartmouthinntotnes.co.uk
+
+----
+
+Image: dartmouth-inn.png
+
+----
+
+Banner: social-food-unsplash.jpg
+
+----
+
+Thumbnail: clients-the-dartmouth-inn.png
+
+----
+
+Mainimage: dartmouth-inn-websites-for-pubs.png
+
+----
+
+Secondsectionheading: Dartmouth Inn Social Media Management
+
+----
+
+Fblikes: 1166
+
+----
+
+Fbchecks: 2815
+
+----
+
+Twfollowers: 44
+
+----
+
+Twtweets: 81
+
+----
+
+Igfollowers: 110
+
+----
+
+Iglikes: 60

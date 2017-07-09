@@ -109,7 +109,7 @@
     <div class="wrapper">
 
       <div class="branding">
-        <a href="<?= url() ?>" rel="home"><img src="/assets/images/a-web-strategy-web-development-social-media-marketing.png" alt="A Web Strategy - Web development and social media management"/></a>
+        <a href="<?= url() ?>" rel="home"><img src="https://a-web-strategy.co.uk/assets/images/a-web-strategy-social-web.png" alt="A Web Strategy - Websites and social media management for pubs"/></a>
       </div>
 
       <?php snippet('menu') ?>

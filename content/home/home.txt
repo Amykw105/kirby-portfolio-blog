@@ -1,23 +1,12 @@
-Title: Website and Social Media Marketing for small local businesses
+Title: Website and Social Media Marketing for pubs & bars
 
 ----
 
-Intro: Connect with your audience, attract new customers and boost profits
+Intro: Online marketing for pubs to connect with your audience and attract new customers
 
 ----
 
 Text: 
-
-## Get started
-
-- Go to the (link: panel text: Panel) to give Kirby's admin interface a try
-- Check out the (link: http://getkirby.com/docs text: docs) and start building your own site
-- Follow (twitter: @getkirby) on Twitter for updates
-- Visit the (link: http://forum.getkirby.com text: forum) to connect with other Kirby users
-- Sign up to (link: https://getkirby.com/#kosmos text: Kirby Kosmos), our monthly newsletter
-- (link: http://getkirby.com/support text: Get in contact) if you need support.
-
-**Have fun with Kirby!**
 
 ----
 
@@ -25,11 +14,11 @@ Calltoaction: Know what you need?
 
 ----
 
-Calltolink: /contact
+Calltolink: /services
 
 ----
 
-Calltoimage: website-strategy-and-social-media-management.jpg
+Calltoimage: websites-for-pubs-and-bars.jpg
 
 ----
 
@@ -37,16 +26,16 @@ Class: homepage
 
 ----
 
-Heading: DIGITAL MARKETING STRATEGY FOR YOUR BUSINESS
+Heading: WEBSITES & SOCIAL MEDIA MANAGEMENT FOR PUBS
 
 ----
 
-Seotitle: Affordable Web Development and Social Media Management
+Seotitle: Websites and Social Media Management for pubs and bars
 
 ----
 
-Seodescription: Website design and development, social media management, search engine optimisation and email marketing to help small, local businesses succeed online
+Seodescription: Website design and development, social media management, search engine optimisation and email marketing to help pubs and bars succeed online
 
 ----
 
-Calltoactionlabel: Get Started
+Calltoactionlabel: Lets get started

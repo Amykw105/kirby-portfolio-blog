@@ -72,6 +72,8 @@
         </div>
             
       <span itemprop="articleBody">  <?= $page->text()->kirbytext() ?> </span>
+      
+      <?php snippet('social-buttons') ?>
       </div>
     </section>
     </article>

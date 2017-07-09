@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
     
-    <div class="home-banner" style="background-image: url('<?= $page->files()->first()->url() ?>');">
+    <div class="home-banner" style="background-image: url('<?= $page->files()->first()->url() ?>'); background-position: center top;">
       <div class="overlay"></div>
       <div class="wrapper">
         <div class="banner-content">
@@ -15,7 +15,7 @@
     
     <section class="content-section services-section">
       <div class="wrapper">
-          <?php snippet('showcase', ['limit' => 6]) ?>
+          <?php snippet('showcase', ['limit' => 3]) ?>
       </div>
     </section>
     
@@ -23,7 +23,7 @@
       <div class="wrapper">
         <p class="section-heading">the latest from my blog</p>
         <div class="blog-flex-wrapper">
-        <?php  $articles = page('blog')->children()->visible()->flip()->paginate(6); ?>
+        <?php  $articles = page('blog')->children()->visible()->sortBy('date', 'desc')->paginate(4); ?>
         <?php foreach($articles as $article): ?>
           <div class="home-blog-posts">
             <?php if($article->coverimage()->isNotEmpty()): ?>
