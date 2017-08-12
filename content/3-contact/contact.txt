@@ -1,0 +1,56 @@
+Title: About & Get in touch
+
+----
+
+Text: I'm a web developer based in Plymouth, Devon.  I like helping people by solving their online problems and building websites that help businesses grow.
+
+----
+
+Intro: I want to manage your online marketing
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  text: >
+    Feel free to drop us a line if you
+    have any questions.
+  url: mailto:support@getkirby.com
+  linktext: Write an email
+  icon: contact.svg
+- 
+  title: Forum
+  text: >
+    Join the Kirby community and connect
+    with others.
+  url: https://forum.getkirby.com/
+  linktext: Visit Kirby’s forum
+  icon: forum.svg
+- 
+  title: GitHub
+  text: >
+    Report Kirby-related issues directly on
+    GitHub.
+  url: https://github.com/getkirby
+  linktext: Kirby on GitHub
+  icon: github.svg
+- 
+  title: Docs
+  text: "Check out Kirby's detailed tutorials and instructions."
+  url: https://getkirby.com/docs
+  linktext: Documentation
+  icon: docs.svg
+
+----
+
+Seotitle: Let's start your Website, Social Media and Email Marketing
+
+----
+
+Seodescription: Need an online marketing strategy for your business? I can manage your website, social media and email campaigns, so you can focus on your business
+
+----
+
+Subheading: Let me take care of your Website, Social Media and Email Marketing

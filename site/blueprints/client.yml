@@ -43,9 +43,13 @@ fields:
     label: Category
     type: tags
     
-  secondsectionheading:
+  socialsectionheading:
     label: Second Section Heading
     type: text
+    
+  socialsectioncontent:
+    label: Social Section Content
+    type: textarea
 
   fblikes:
     label: Facebook Likes
@@ -86,3 +90,15 @@ fields:
     label: SEO Description
     type: text
     width: 1/2
+
+  printsectionheading:
+    label: Print Section Heading
+    type: text
+
+  printsectioncontent:
+    label: Print Section Content
+    type: textarea
+
+  gallery:
+    label: Gallery
+    type: images

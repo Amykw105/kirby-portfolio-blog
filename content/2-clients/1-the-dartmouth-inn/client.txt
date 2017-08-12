@@ -75,3 +75,28 @@ Igfollowers: 110
 ----
 
 Iglikes: 60
+
+----
+
+Socialsectionheading: Social Media Marketing
+
+----
+
+Printsectionheading: Print, Design & Other Work
+
+----
+
+Gallery: 
+
+- cider-festival-facebook.png
+- afternoon-tea-card.jpg
+- monthly-newsletter.jpg
+- cider-festivale-poster.jpg
+
+----
+
+Socialsectioncontent: We regularly run Facebook Ads and Campaigns to improve awareness, create events and encourage visitors to post on our profiles. We participate in local community groups, respond to messages (usually within an hour max) and respond to Google and Tripadvisor reviews.
+
+----
+
+Printsectioncontent: Along with monthly email newsletters, I also design many printed and digital assets. All posters, menus, table-cards, printed newsletters and social media graphics are created using Photoshop. There's too many to include them all, so here are a few recent pieces.

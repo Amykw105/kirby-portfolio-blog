@@ -1,0 +1,85 @@
+Title: 5 reasons your restaurant website needs a web-based menu
+
+----
+
+Coverimage: why-your-restaurant-website-needs-a-web-based-menu.png
+
+----
+
+Date: 2017-08-06
+
+----
+
+Category: Web Development
+
+----
+
+Tags: Web Design,Web Development
+
+----
+
+Text: 
+
+Every restaurant needs to have a copy of their menu online. It helps customers plan their visit and get to know the place they may be visiting for the first time. 
+
+Every good restaurant website will have a copy of the menu in an easy to find location on their site. Most of the time, it’s a link to a PDF download. The reason for this is that it’s much easier just to upload to file than manually typing each and every update to the menu. Unfortunately, the easy way isn’t always the best way. Downloadable PDF menus save the designer or developer time during development but it does not make for a good user experience.
+
+## What is a Web-Based Menu?
+
+A web-based menu is a digital version of your physical menu that is typed out online and does not require a click to download the menu file which is often quite large in size. A web-based menu provides the menu in the form of text on the web page, it can easily be copied, highlighted or even searched. 
+
+Here are the main advantages of having a web-based menu on your restaurant website.
+
+### 1. It is great for Search Engine Optimisation
+
+Since web-based menus are in plain text, search engines like Google and Bing can easily grab keywords from it to (link: /services/search-engine-optimisation text: improve your website’s search ranking). An image or file cannot have its content searched or logged by search engines, so you'll be missing out on potential search engine ranking points. 
+
+### 2. Easy to view
+
+Web-based menus are much easier to view because they are built to be legible on devices of all sizes. There is no need to pinch and zoom to view them as you would with a menu that is an image or pdf and the font size will adjust to match the users' browser settings.
+
+### 3. Saves on data and quicker load times
+
+Most visitors will be visiting your website from a mobile device, if they are not connected to WiFi they will have to use their data allowance to download and view the menu. In most cases, the web page to view your web-based menu will be lighter and than a PDF document, especially if it has not been compressed before uploading. People on poor connections will be left waiting as the file downloads, that's precious time that they could be reading your web-based menu. 
+
+### 4. Easy to adjust menu items
+
+When adding or removing an item on a printed menu there are features that need adjusting such as design spacing, alignment and sometimes page size. A web-based menu is much easier as web-based content will adjust to fit the page and grow or shrink as needed for the amount of content. 
+
+### 5. Easy to translate
+
+If your website is often visited by customers who speak various languages a web-based menu means it can easily be translated into their language. This can happen either through language plugins that translate your website or through built-in-browser language translation. This is not possible with an image or pdf menu unless you create separate menus for each language which can be time-consuming.
+
+## So how should you display your menu on your restaurant website?
+
+In most cases, it is best to provide both a web-based menu and a PDF download. Giving your users the option of how they would like to view your menu is always best as they can view it in a way that is best for them. 
+
+If a potential customer has a poor connection they can easily download and view your web-based menu. If they wanted a printed version to send friends, perhaps for planning an event, instead of taking your printed copies they can send a link to a digital download. 
+
+It's always best to give the customer the choice and with the added benefit of a web-based menu being searchable there's no reason to not have it listed on your website. 
+
+> If you're looking to improve your (link: /services/website-design-development text: restaurant website design) get in touch. I offer design and development services to promote your business online.
+
+----
+
+Seotitle: 5 reasons your restaurant website needs a web-based menu
+
+----
+
+Seodescription: Every restaurant needs to have a copy of their menu online. Often it’s a link to a PDF download but are you missing out by not having a web-based menu?
+
+----
+
+Twitterimage: why-web-based-menu-twitter-share.jpg
+
+----
+
+Pinterestimage: why-web-based-menu-pinterestthree.jpg
+
+----
+
+Facebookimage: why-web-based-menu-facebook-share.jpg
+
+----
+
+Googleimage: why-web-based-menu-google-share.jpg

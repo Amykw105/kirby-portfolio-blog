@@ -1,8 +1,8 @@
-Title: Website and Social Media Marketing for pubs & bars
+Title: Website and Social Media Marketing for small businesses in Plymouth
 
 ----
 
-Intro: Online marketing for pubs to connect with your audience and attract new customers
+Intro: Online marketing to connect with your audience and attract new customers
 
 ----
 
@@ -26,15 +26,15 @@ Class: homepage
 
 ----
 
-Heading: WEBSITES & SOCIAL MEDIA MANAGEMENT FOR PUBS
+Heading: WEBSITES FOR SMALL BUSINESSES IN PLYMOUTH
 
 ----
 
-Seotitle: Websites and Social Media Management for pubs and bars
+Seotitle: Websites and Social Media Management for small businesses in Plymouth
 
 ----
 
-Seodescription: Website design and development, social media management, search engine optimisation and email marketing to help pubs and bars succeed online
+Seodescription: Website design and development, social media management, search engine optimisation and email marketing to help small businesses succeed online
 
 ----
 

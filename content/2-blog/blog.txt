@@ -1,0 +1,17 @@
+Title: Blog
+
+----
+
+Text: The latest from my blog
+
+----
+
+Perpage: 2
+
+----
+
+Seotitle: Blog posts about Web Design & Development, Social Media and SEO
+
+----
+
+Seodescription: Need help with Web Design & Development, Social Media, Email Marketing or Search Engine Optimisation? Articles to help small businesses succeed online

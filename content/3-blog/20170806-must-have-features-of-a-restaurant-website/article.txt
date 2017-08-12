@@ -1,0 +1,101 @@
+Title: 5 must have features of a restaurant website
+
+----
+
+Coverimage: must-have-features-of-restaurant-website.jpg
+
+----
+
+Date: 2017-08-06
+
+----
+
+Category: Web Development
+
+----
+
+Tags: Web Design,Web Development,Food & Beverage
+
+----
+
+Text: 
+
+Have you ever visited a restaurant website only to find out of date information, blurry photos and no online version of their menu? It’s frustrating to not get a realistic idea of what the business is offering. As a customer, I love to have a browse of the menu before visiting but if I can’t do that, I don’t know what to expect when I visit in person and I may opt to go elsewhere. 
+
+## Why are there so many bad restaurant websites?
+
+Websites often get overlooked when a new restaurant launches. Many places focus on old-school print marketing with flyers and posters, but the problem with these is that they aren’t accessible 24/7 for anyone to find. 
+
+There’s also no way of targeting the audience of these printed adverts so often they reach a mix of interested and not interested people. Using (link: /services/search-engine-optimisation text: search engine optimisation) your website can be easily targeted to people to are looking for a service that you provide. 
+
+As a result of this, a restaurants website is often a last minute thought, done in a hurry for a low budget. By doing this you could be missing out on positive advertising for your business.
+
+## What makes a good restaurant website? 
+
+These are the key features of a successful restaurant website and how they help attract more customers to your business. 
+
+### 1. Mobile-Friendly Website
+
+Recent studies have shown that 83% of people look for a place to eat on their mobile device. If your website is not mobile-friendly and a potential customer doesn’t get a good impression of your business they will look elsewhere and you could be missing out a lot of potential earnings.
+
+#### How to make a website Mobile-Friendly?
+
+The best option for a mobile-friendly website is to build the website responsively. Responsive websites fit any device regardless of the screen size so no matter what device you have you’ll get a good experience on the website. If a website is built properly, the developer will build it mobile-first which means that it’ll be optimised. **Having a website that is not mobile-friendly will also affect your search results rankings.** Google prefers websites to be mobile-friendly, if your site is not, Google won’t bother showing it to potential customers because it knows the experience will be poor. 
+
+> If you'd like to know if your website is mobile-friendly and optimised, (link: /contact text: get in touch) and I give your (link: /services/website-auditing text: website an audit) to let you know how it's doing and what can be improved. 
+ 
+### 2. Web-based menu and downloads
+
+For a restaurant or gastropub, your menu is one of the most important parts of your business, so you’ll want to make it easy for your potential visitors to view it. 
+
+Some web designers will just upload a PDF file of the physical menu and leave it at that, but this can put off customers. If a potential customer is in a location with a poor data connection, the download of the PDF could take a while to download. I've written an article on (link: /blog/why-your-restaurant-website-needs-a-web-based-menu text: why a web-based menu is better than a PDF download). Having an integrated menu makes it easy to see your menu and allows it to be easily found by search engines.
+ 
+### 3. Gallery of high-quality photos
+
+Potential customers love to see images because it helps them to decide which menu choice is best for them. Customers are more likely to choose your business if they see some high-quality images of what products you are offering. This can be in the form of an embedded gallery or a feed of your Instagram or Facebook photos which automatically updates with your latest images. 
+
+Showing just a few photos of your food will push you ahead of the rest and make your visitors crave your food. You don’t need pages and pages of images, just a few well-chosen photos will do and won’t take too long to load on the customers' device. 
+
+If you can afford a professional photographer you’ll have an added advantage. If not, there’s still hope as many recent mobile phones have great built in cameras that can take professional looking images. Just make sure you don’t make these mistakes when taking your own photos. 
+ 
+### 4. Social Media Integration
+
+Social media can help as a form of word-of-mouth promotion. People like to share their experiences and make recommendations, usually, this is done through social media. 
+
+You can simply add your social media icons to your website to encourage users to find your profiles. If you are going to do this make sure you are active on these platforms and that they have relevant and up-to-date content. 
+
+### 5. Reviews
+
+If you have a Yelp or TripAdvisor profile for your business, you can add a few testimonials from some of your happy customers to the website. If you can show that you have happy customers, you’ll encourage more potential customers to try out your service. 
+
+Encouraging your customers to leave reviews is a great way to get feedback on your business and can highlight areas that may need improvement. 
+
+## Making sure your website has these features
+
+Not all web designers specialise in food & beverage services so may not know to include these features. If you are paying a web designer to create your website be sure to request these features. 
+
+> I have previous experience managing the websites and social media for two very busy pubs, (link: /clients/the-dartmouth-inn text: The Dartmouth Inn) and (link: /clients/king-william-iv text: The King William IV) so if you are looking to have a website built for your food or beverage business get in touch.
+
+----
+
+Seotitle: 5 must have features of a successful restaurant website
+
+----
+
+Seodescription: Have you ever been disappointed by a restaurant website and unable to find the information you need? These are the key features every restaurant website needs.
+
+----
+
+Twitterimage: must-haves-for-restaurant-website-twitter-share.jpg
+
+----
+
+Pinterestimage: features-of-restaurant-website-pinterestthree.jpg
+
+----
+
+Facebookimage: must-have-features-of-a-restaurant-website-facebook-share.jpg
+
+----
+
+Googleimage: must-have-features-of-restaurant-website-google.jpg

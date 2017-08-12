@@ -6,11 +6,11 @@ Text:
 
 ----
 
-Seotitle: The services I offer to help your pub or bar succeed online
+Seotitle: The services I offer to help your small business succeed online
 
 ----
 
-Seodescription: Does your pub need help succeeding online? I can help with your website, social media, email marketing and search engine optimisation
+Seodescription: Does your business need help succeeding online? I can help with your website, social media, email marketing and search engine optimisation
 
 ----
 
@@ -18,4 +18,4 @@ Class: services
 
 ----
 
-Heading: Online marketing for pubs and bars
+Heading: Online marketing for small businesses in Plymouth

@@ -1,0 +1,86 @@
+Title: King William IV
+
+----
+
+Sectionheading: King William IV
+
+----
+
+Text: After taking over a very old Squarespace website, the new King William IV website was rebuilt from scratch with a modern design and a full menu listing.
+
+----
+
+Link: http://www.kingwilliamtotnes.co.uk/
+
+----
+
+Mainimage: king-william-website.png
+
+----
+
+Banner: social-food-unsplash.jpg
+
+----
+
+Thumbnail: king-william-websites-for-pubs.png
+
+----
+
+Category: HTML,CSS,jQuery,PHP,SEO,Social Media,Microdata
+
+----
+
+Socialsectionheading: 
+
+----
+
+Socialsectioncontent: 
+
+----
+
+Fblikes: 
+
+----
+
+Fbchecks: 
+
+----
+
+Twfollowers: 
+
+----
+
+Twtweets: 
+
+----
+
+Igfollowers: 
+
+----
+
+Iglikes: 
+
+----
+
+Seotitle: King William IV - Website design & development client
+
+----
+
+Seodescription: Clients: King William IV - Website design & development, social media management, MailChimp marketing, search engine optimisation.
+
+----
+
+Printsectionheading: Print, Design & Other Work
+
+----
+
+Printsectioncontent: Before the website launched we created a number of menus, a logo and some social media assets.
+
+----
+
+Gallery: 
+
+- king-bill-logo-black.png
+- king-william-new-drinks-menu.png
+- king-william-drinks-menu-open.png
+- king-william-both-menus.png

@@ -42,7 +42,7 @@ gulp.task('styles', () => {
     .pipe(prefixer('last 3 versions', 'ie 9'))
     .pipe(sourcemaps.init())
     .pipe(minifyCSS())
-    // .pipe(sourcemaps.write())
+    .pipe(sourcemaps.write())
     .pipe(rename({dirname: dist + '/css'}))
     .pipe(gulp.dest('./'))
     .pipe(browserSync.stream())

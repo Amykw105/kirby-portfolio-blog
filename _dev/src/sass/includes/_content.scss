@@ -597,6 +597,7 @@ body.services{
     width: 100%;
     min-height: 200px;
     position: relative;
+        border: solid 10px $midblue;
     @media screen and (min-width: $mobile){
       width: 50%;
       min-height: 250px;
@@ -630,4 +631,17 @@ body.services{
     left: 50%;
     transform: translate(-50%, -50%);
   }
+}
+.social-section{
+  text-align: center;
+}
+.social-heading {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $yellow;
+}
+span.count p {
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0;
 }

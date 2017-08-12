@@ -8,13 +8,9 @@ Year: 2012
 
 Text: 
 
-Your website is your online business card, accessible 24/7, allowing your customers to interact with your business even when your business is closed. 
+Your website is your online business card, accessible 24/7, allowing your customers to interact with your business night and day. 
 
-Your website should be responsive, built with Search Engine Optimisation in mind, using modern technologies and accessible to everyone. 
-
-## Built your own site with Wix/Squarespace/Weebly?
-
-Free build-your-own websites may look great to begin with, but you'll soon notice that it doesn't perform as well as it should. With little access to the code you are limited in features and with the SEO that you can do, potentially harming your rankings. Some of these website builders even block your website from appearing in Google until you pay extra, that will never happen with a custom developed website. 
+Your website should be mobile-first, responsive, (link: /services/search-engine-optimisation text: built with Search Engine Optimisation in mind), using modern technologies and accessible to everyone. 
 
 ### What I'll do
 
@@ -34,7 +30,7 @@ Free build-your-own websites may look great to begin with, but you'll soon notic
 
 ### Want to update the code yourself?
 
-A content management system will allow you to make regular updates to your website without paying for a maintenance fee. Depending on your website requirements your site will either be built with WordPress, Laravel or Kirby. If you choose one of these options you'll get full training on how to update your content.  If you don't want to update your content regularly, a simple, static site may be the cheapest option.
+A content management system will allow you to make regular updates to your website without paying a maintenance fee. Depending on your website requirements your site will either be built with WordPress, Laravel or Kirby. If you choose one of these options you'll get full training on how to update your content.  If you don't want to update your content regularly, a simple, static site may be the cheapest option.
 
 ----
 
