@@ -17,7 +17,7 @@
       <div class="wrapper">
           <?php snippet('showcase', ['limit' => 3]) ?>
       </div>
-    </section>
+    </section> 
     
     <section class="blog-section content-section">
       <div class="wrapper">
