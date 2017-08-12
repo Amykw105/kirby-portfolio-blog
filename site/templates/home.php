@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-    
+    <!-- testing ftp server -->
     <section class="content-section services-section">
       <div class="wrapper">
           <?php snippet('showcase', ['limit' => 3]) ?>
