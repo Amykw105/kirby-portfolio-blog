@@ -13,16 +13,21 @@
   }
 }
 .branding{
-  float: left;
+  
   width: auto;
-
+@media screen and (min-width: $lgdesktop){
+  float: left;
+}
   
 
   a {
     display: block;
   }
   img {
-    max-height: 100px;
+    max-width: 80%;
+    margin: 0 auto 20px;
+    display: block;
+    max-height: 80px;
       @media screen and (min-width: $mobile){
         max-width: none;
       }

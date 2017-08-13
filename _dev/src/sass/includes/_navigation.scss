@@ -65,22 +65,34 @@ span.slicknav_icon-bar {
 }
 .site-navigation{
   display: none;
-  float: right;
-  
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  clear: left;
+  @media screen and (min-width: $lgdesktop){
+    float: right;
+    width: auto;
+    clear: none;
+  }
   @media screen and (min-width: $tablet){
     display: block;
+    
   }
-
+ 
   ul{
     list-style: none;
     padding: 0;
     margin: 0;
   }
   li{
-    float: left;
+    
     display: inline-block;
-    padding: 35px 0 0;
+    padding: 10px 0 20px;
     position:relative;
+    @media screen and (min-width: $lgdesktop){
+      padding: 35px 0 0;
+      float: left;
+    }
     a{
       padding: 10px;
       margin: 10px 20px;
