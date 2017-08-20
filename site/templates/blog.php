@@ -19,6 +19,7 @@
             <?php if($article->coverimage()->isNotEmpty()): ?>
             <div class="image" style="background-image:url(<?= $article->coverimage()->toFile()->url() ?>);"></div>
             <?php endif ?>
+            <div class="overlay"></div>
               <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
               <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
           </div>

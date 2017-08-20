@@ -21,13 +21,12 @@ if(isset($limit)) $services = $services->limit($limit);
 ?>
 
 <ul class="services-listing">
-  <p class="section-heading">What your business needs for a successful online strategy</p>
   <?php foreach($services as $service): ?>
 
-    <li class="services-item">
+    <li class="services-item" style="background-image:url(<?= $service->files()->first()->url() ?>);">
+      <div class="overlay"></div>
         <a href="<?= $service->url() ?>" class="service-link">
-          <div class="svg-icon <?= $service->class()->html() ?>">
-          </div>
+          
           <div class="service-caption">
             <h3 class="service-title"><?= $service->title()->html() ?></h3>
           </div>

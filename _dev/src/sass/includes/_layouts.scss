@@ -2,11 +2,11 @@
   box-sizing: border-box;
 }
 body{
-  background-color: $darkblue;
+  //background-color: $darkblue;
   font-size: 18px;
   line-height: 28px;
   font-family: $font-family-sans-serif;
-  color: white;
+  color: black;
   padding: 0;
   margin: 0;
   font-weight: 300;
@@ -26,6 +26,11 @@ a:hover{
   display: block;
   margin: 0 auto;
 }
+// .wrappers{
+//   max-width: 1600px;
+//   display: block;
+//   margin: 0 auto;
+// }
 .large-wrapper{
   max-width: 2000px;
   width: 100%;
@@ -36,7 +41,4 @@ a:hover{
   clear: both;
   display: block;
   width: 100%;
-}
-.content-section{
-  padding: 100px 0;
 }

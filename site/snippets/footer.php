@@ -32,7 +32,7 @@
       <div class="third">
         <div class="footer-copy">
           <p class="title">Let me take care of your Website, Social Media and Email Marketing.</p>
-          <p class="copy">I'm a web developer based in Plymouth, Devon. I like helping people by solving their online problems and building websites that help businesses grow. <a href="/contact" title="Get in touch to find out how I can help your business grow online">Get in touch to find out how I can help your business grow online.</a></p>
+          <p class="copy">Web Design & Development services in Plymouth, Devon. Affordable bespoke web sites, search engine optimisation and social media management for small businesses. <a href="/contact" title="Get in touch to find out how I can help your business grow online">Get in touch to find out how I can help your business grow online.</a></p>
         </div>
       </div>
       <div class="clearfix"></div>
