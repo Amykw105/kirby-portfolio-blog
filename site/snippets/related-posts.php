@@ -14,6 +14,7 @@ $posts = page('blog')->children()->visible()->filterBy('category', $category)->l
         <?php foreach($posts as $post): ?>
           <div class="home-blog-posts">
             <div class="image" style="background-image:url(<?= $post->coverimage()->toFile()->url() ?>);"></div>
+            <div class="overlay"></div>
               <a class="home-blog-title" href="<?= $post->url() ?>"><?= $post->title()->html() ?></a>
               <a class="home-blog-link" href="<?= $post->url() ?>">Read post</a>
           </div>
