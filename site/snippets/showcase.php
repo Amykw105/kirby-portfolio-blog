@@ -17,6 +17,7 @@ https://getkirby.com/docs/templates/snippets
 */
 
 if(isset($limit)) $services = $services->limit($limit);
+if(isset($offset)) $services = $services->offset($offset);
 
 ?>
 

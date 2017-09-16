@@ -30,19 +30,25 @@
       </div>
     </section> 
     
+    <section class="services-section">
+      <div class="wrappers">
+          <?php snippet('showcase', ['offset' => 3]) ?>
+      </div>
+    </section> 
+    
     <section class="blog-section content-section">
       <div class="wrappers">
+        <div class="text-section">
+        <p class="page-title">Latest Blog posts</p>
+      </div>
         <!-- <p class="section-heading">the latest from my blog</p> -->
         <div class="blog-flex-wrapper">
         <?php  $articles = page('blog')->children()->visible()->sortBy('date', 'desc')->paginate(6); ?>
         <?php foreach($articles as $article): ?>
           <div class="home-blog-posts">
-            <?php if($article->coverimage()->isNotEmpty()): ?>
-            <div class="image" style="background-image:url(<?= $article->coverimage()->toFile()->url() ?>);"></div>
-            <div class="overlay"></div>
-            <?php endif ?>
-              <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
-              <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
+            <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
+            <p><?= excerpt($article->text(), 250) ?></p>
+            <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
           </div>
         <?php endforeach ?>
       </div>
