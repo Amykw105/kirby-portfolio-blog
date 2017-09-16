@@ -101,3 +101,6 @@ ExpiresDefault "access 1 month"
 # AddDefaultCharset UTF-8
 #
 # php_flag short_open_tag on
+
+# 301 redirects
+Redirect 301 /services/website-design-development https://a-web-strategy.co.uk/services/plymouth-web-design-development
