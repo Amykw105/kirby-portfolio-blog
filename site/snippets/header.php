@@ -18,7 +18,6 @@
   <meta name="language" content="en-GB" />
   <meta name="rating" content="General" />
   <meta name="copyright" content="2017" />
-  <meta name="classification" content="Restaurant" />
   <meta http-equiv="Pragma" content="no-cache" />
   <meta name="keywords" content=""/> <!----- ENTER SITE KEY WORDS HERE ----->
   <title><?= $page->SEOtitle()->html() ?></title>
@@ -109,7 +108,7 @@
     <div class="wrapper">
 
       <div class="branding">
-        <a href="<?= url() ?>" rel="home"><img src="https://a-web-strategy.co.uk/assets/images/a-web-strategy-social-web.png" alt="A Web Strategy - Websites and social media management for pubs"/></a>
+        <a href="<?= url() ?>" rel="home"><img src="https://a-web-strategy.co.uk/assets/images/a-web-strategy-social-web.png" alt="Bespoke web design & development for small businesses in Plymouth, Devon."/></a>
       </div>
 
       <?php snippet('menu') ?>
