@@ -2,7 +2,7 @@
 
   <main class="main" role="main">
     
-    <div class="home-banner" style="background-image: url('<?= $page->files()->first()->url() ?>'); background-position: center top;">
+    <div class="home-banner" style="background-image: url('<?= $page->files()->first()->url() ?>'); background-position: center center;">
       <div class="overlay"></div>
       <div class="wrapper">
         <div class="banner-content">
