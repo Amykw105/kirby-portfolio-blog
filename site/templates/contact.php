@@ -14,17 +14,13 @@
     <section class="content-section">
 
     <div class="wrapper">
-      <div class="left">
-      <h2 class="content-heading"><?= $page->subheading()->html() ?></h2>
 
-
-
-      <?= $page->text()->kirbytext() ?>
-    </div>
-    <div class="right">
-      <h3 class="content-heading">Let's get started..</h3>
-      <p>Tell me a bit about your business..</P>
-
+      <center>
+        <h2 class="content-heading">How can I help?</h2>
+        <p>Tell me about your business and what you'd like to achieve with your online strategy.<br/><br/>
+        You'll get a response within 24 hours.</p>
+        <br/><br/>
+      </center>
       <form method="post" class="contact-form">
 
      <?php if($alert): ?>
@@ -46,18 +42,34 @@
        <label for="email">Email <abbr title="required">*</abbr></label>
        <input type="email" id="email" name="email" required placeholder="Your email">
      </div>
+     
+     <div class="field">
+       <label for="website">Website <abbr title="required">*</abbr></label>
+       <input type="website" id="website" name="website" placeholder="Your existing website">
+     </div>
+     
+     <div class="field">
+       <label for="budget">Budget <abbr title="required">*</abbr></label>
+       <input type="budget" id="budget" name="budget" placeholder="Do you have a budget for your project?">
+     </div>
 
      <div class="field">
        <label for="text">Text <abbr title="required">*</abbr></label>
-       <textarea id="text" name="text" required placeholder="Tell me about your business"></textarea>
+       <textarea id="text" name="text" required placeholder="Tell me about your business."></textarea>
      </div>
 
      <input type="submit" name="submit" value="Submit" class="submit-button">
 
    </form>
-</div>
 <div class="clearfix"></div>
+    <br/><br/>
+    <center>
+      <h3 class="content-heading"><?= $page->subheading()->html() ?></h3>
+      <?= $page->text()->kirbytext() ?>
+    </center>
+    <br/><br/>
     </div>
+    
   </section>
 
   </main>

@@ -5,6 +5,8 @@ Icon
 .DS_Store
 node_modules
 /node_modules/*
+content
+content/*
 
 # Temporary files
 # ---------------
