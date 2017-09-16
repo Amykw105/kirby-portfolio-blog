@@ -104,3 +104,4 @@ ExpiresDefault "access 1 month"
 
 # 301 redirects
 Redirect 301 /services/website-design-development https://a-web-strategy.co.uk/services/plymouth-web-design-development
+Redirect 301 /contact https://a-web-strategy.co.uk/find-out-more-web-design-plymouth
