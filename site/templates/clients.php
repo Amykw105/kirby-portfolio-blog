@@ -10,6 +10,14 @@
         </div>
       </div>
     </div>
+    
+    <section class="content-section">
+      <div class="wrapper"> 
+        <center>
+          <h2>  <?= $page->text()->html() ?></h2>
+        </center>
+      </div>
+    </section>
       
     <section class="content-section">
       <div class="wrapper"> 
