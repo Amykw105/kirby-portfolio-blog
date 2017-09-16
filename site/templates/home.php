@@ -7,7 +7,7 @@
       <div class="wrapper">
         <div class="banner-content">
           <h1 class="intro-large"><?= $page->heading()->html() ?></h1>
-          <h2 class="intro-small"><?= $page->intro()->kirbytext() ?></h2>
+          <p class="intro-small"><?= $page->intro()->kirbytext() ?></p>
           <a href="<?= $page->calltolink()->html() ?>" class="intro-cta"><?= $page->calltoactionlabel()->html() ?></a>
         </div>
       </div>
