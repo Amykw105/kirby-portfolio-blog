@@ -22,7 +22,7 @@
     <section class="text-section">
       
       <div class="wrapper">
-          <h2 class="page-title">Web Design &amp; Development in Plymouth</h2>
+          <h2 class="page-title">Plymouth Web Design &amp; Development</h2>
           <p class="cols">I design and build custom responsive websites and assist with search engine optimisation for small to medium sized businesses. <br/><br/>
           Web design & development services are not just limited to Plymouth, Devon. I have worked remotely with small companies in Australia and New Zealand and also businesses closer to home in Devon.</p>
           <p class="cols"><b>Bespoke web solutions to promote your business and products online.</b> Each website is designed and built just for your business - no templates or frameworks - your website will stand out to reach both loyal and new, potential customers. <br/><br/>
