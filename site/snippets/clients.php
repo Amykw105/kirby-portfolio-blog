@@ -24,8 +24,8 @@ if(isset($limit)) $clients = $clients->limit($limit);
   <?php foreach($clients as $client): ?>
 
     <li class="clients-item">
-        <a href="<?= $client->url() ?>" class="client-link" style="background-image:url('<?= $client->thumbnail()->toFile()->url() ?>');">
-          <span class="client-name"><?= $client->title()->html() ?></span>
+        <a href="<?= $client->url() ?>" class="client-link">
+          <img src="<?= $client->mainimage()->toFile()->url() ?>" />
         </a>
     </li>
 

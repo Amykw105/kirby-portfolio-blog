@@ -640,35 +640,29 @@ p.cols {
 }
 .clients-listing{
   list-style: none;
-  padding: 0;
+  padding: 50px 0;
   margin: 0;
   
   li{
     display: block;
     width: 100%;
-    min-height: 200px;
     position: relative;
-        border: solid 5px white;
+    border: solid 5px white;
     @media screen and (min-width: $mobile){
       width: 50%;
-      min-height: 250px;
       float: left;
     }
     @media screen and (min-width: $tablet){
-      width: 25%;
-      min-height: 300px;
+      width: 50%;
     }
   }
   a{
     height: 100%;
     width: 100%;
     cursor: pointer;
-    position: absolute;
     display: block;
     background-size: cover;
     background-position: center;
-    top: 0;
-    left: 0;
   }
   span.client-name {
     position: absolute;
@@ -681,6 +675,9 @@ p.cols {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+  }
+  img{
+    max-width: 100%;
   }
 }
 .social-section{
