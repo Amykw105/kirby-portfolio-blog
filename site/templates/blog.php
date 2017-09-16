@@ -12,16 +12,15 @@
     </div>
 
     <section class="blog-section content-section">
+        <br/><br/>
       <div class="wrapper blog-flex-wrapper">
+      
       <?php if($articles->count()): ?>
         <?php foreach($articles as $article): ?>
           <div class="home-blog-posts">
-            <?php if($article->coverimage()->isNotEmpty()): ?>
-            <div class="image" style="background-image:url(<?= $article->coverimage()->toFile()->url() ?>);"></div>
-            <?php endif ?>
-            <div class="overlay"></div>
-              <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
-              <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
+            <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
+            <p><?= excerpt($article->text(), 250) ?></p>
+            <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
           </div>
         <?php endforeach ?>
         <div class="clearfix"></div>
