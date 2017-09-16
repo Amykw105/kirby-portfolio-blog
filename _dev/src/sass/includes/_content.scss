@@ -398,6 +398,9 @@ body.services{
   }
 }
 .contact-form{
+  max-width: 600px;
+  margin: 0 auto;
+  display: block;
   label{
     display: none;
   }
