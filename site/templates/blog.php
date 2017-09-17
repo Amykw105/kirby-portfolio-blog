@@ -19,8 +19,8 @@
         <?php foreach($articles as $article): ?>
           <div class="home-blog-posts">
             <a class="home-blog-title" href="<?= $article->url() ?>"><?= $article->title()->html() ?></a>
-            <p><?= excerpt($article->text(), 250) ?></p>
-            <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a>
+            <p><?= excerpt($article->text(), 440) ?></p>
+            <!-- <a class="home-blog-link" href="<?= $article->url() ?>">Read article</a> -->
           </div>
         <?php endforeach ?>
         <div class="clearfix"></div>

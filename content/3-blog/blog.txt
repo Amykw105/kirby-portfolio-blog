@@ -10,8 +10,12 @@ Perpage: 2
 
 ----
 
-Seotitle: Blog posts about Web Design & Development, Social Media and SEO
+Seotitle: Web Design & Development, Social Media and SEO blog
 
 ----
 
 Seodescription: Need help with Web Design & Development, Social Media, Email Marketing or Search Engine Optimisation? Articles to help small businesses succeed online
+
+----
+
+Class: blog-page

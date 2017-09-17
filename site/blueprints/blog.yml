@@ -27,6 +27,10 @@ fields:
     max: 20
     default: 5
     width: 1/4
+    
+  class:
+    label: Body class
+    type: text
 
   text:
     label: Text
