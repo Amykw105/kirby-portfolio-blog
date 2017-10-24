@@ -97,6 +97,8 @@ span.slicknav_icon-bar {
       padding: 10px;
       margin: 10px 20px;
       color: white;
+      text-transform: uppercase;
+      font-weight: bold;
       
       &:hover{
         color: $yellow;
@@ -113,17 +115,20 @@ span.slicknav_icon-bar {
     	position:absolute;
     	top:100%;
     	left:0;
-    	padding:0;
+    	padding:20px 0;
       z-index: 9999;
       background-color: $darkerblue;
       width: 300px;
       li{
         display: block;
-        padding: 10px 10px 10px 20px;
+        padding: 5px 10px 5px 20px;
         float: none;
         width: 100%;
+        text-align: left;
+        font-size: 14px;
         
         a{
+          font-weight: normal;
           margin: 0;
           padding: 0;
           color: white!important;

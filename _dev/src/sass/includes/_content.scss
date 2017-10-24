@@ -7,7 +7,7 @@
   margin: 0px 0 50px;
   font-size: 30px;
   line-height: 50px;
-  color: $yellow;
+  color: $accent;
   font-weight: bold;
   font-family: $font-family-serif;
 }
@@ -22,10 +22,10 @@ h3{
 }
 h4{
   
-}
+} 
 
 blockquote {
-  color: orange;
+  color: #027d8f;
   padding: 5px 10px;
   margin: 60px 0;
   font-size: 26px;
@@ -43,6 +43,7 @@ blockquote {
 /** homepage **/
 .homepage .home-banner{
   min-height: 550px;
+  min-height: 80vh;
 }
 .home-banner{
   padding: 40px 0;
@@ -52,8 +53,6 @@ blockquote {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  border-left: 10px solid white;
-  border-right: 10px solid white;
   border-bottom: 10px solid white;
 }
 .overlay {
@@ -105,7 +104,7 @@ blockquote {
   transition: background-color ease 1s;
   
   &:hover{
-    background-color: $yellow;
+    background-color: $accent;
     color: white;
   }
 }
@@ -134,7 +133,7 @@ blockquote {
       color: $darkerblue;
     }
     a.home-blog-link{
-      color: $yellow;
+      color: $accent;
     }
   }
 
@@ -164,7 +163,7 @@ blockquote {
     transition: color 1s;
     
     &:hover{
-      color: $yellow;
+      color: $accent;
     }
   }
   .image {
@@ -206,7 +205,7 @@ blockquote {
 a.home-blog-link {
     text-transform: uppercase;
     display: block;
-    color: $yellow;
+    color: $accent;
     max-width: 90%;
     margin: 0 auto 10px;
     text-align: left;
@@ -248,7 +247,7 @@ a.home-blog-link {
     left: 0; 
     
     &:hover{
-      color: $yellow;
+      color: $accent;
     }
   }
   @media screen and (min-width: $mobile){
@@ -309,7 +308,7 @@ body.services{
 /** Call to action **/
 .call-to-action{
   padding: 20px 0;
-  background-color: $yellow;
+  background-color: $accent;
   color: white;
   position: relative;
 }
@@ -381,7 +380,7 @@ body.services{
     font-weight: bold;
     
     &:hover{
-      color: $yellow;
+      color: $accent;
     }
   }
   
@@ -437,7 +436,7 @@ body.services{
   //   border-bottom: none!important;
   // }
   .submit-button{
-    background-color: $yellow;
+    background-color: $accent;
     border-bottom: none!important;
     text-transform: uppercase;
     font-weight: bold;
@@ -704,7 +703,7 @@ p.cols {
 .social-heading {
     text-transform: uppercase;
     font-weight: bold;
-    color: $yellow;
+    color: $accent;
 }
 span.count p {
     font-weight: bold;

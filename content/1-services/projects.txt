@@ -6,7 +6,7 @@ Text:
 
 ----
 
-Seotitle: The services I offer to help your small business succeed online
+Seotitle: Web design services for small businesses in Plymouth
 
 ----
 
@@ -18,4 +18,4 @@ Class: services
 
 ----
 
-Heading: Online marketing for small businesses in Plymouth
+Heading: Web design services for small businesses in Plymouth

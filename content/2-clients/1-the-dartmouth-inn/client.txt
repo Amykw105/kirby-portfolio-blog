@@ -54,7 +54,7 @@ Secondsectionheading: Dartmouth Inn Social Media Management
 
 ----
 
-Fblikes: 1166
+Fblikes: 1200
 
 ----
 
@@ -70,7 +70,7 @@ Twtweets: 81
 
 ----
 
-Igfollowers: 110
+Igfollowers: 188
 
 ----
 
@@ -88,10 +88,9 @@ Printsectionheading: Print, Design & Other Work
 
 Gallery: 
 
-- cider-festival-facebook.png
-- afternoon-tea-card.jpg
-- monthly-newsletter.jpg
-- cider-festivale-poster.jpg
+- cider-fest-poster.jpg
+- halloween-poster.jpg
+- newsletter-poster.jpg
 
 ----
 

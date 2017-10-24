@@ -2,7 +2,7 @@ Title: Website and Social Media Marketing for small businesses in Plymouth
 
 ----
 
-Intro: Online marketing to connect with your audience and attract new customers
+Intro: Digital marketing to connect with your audience and attract new customers
 
 ----
 
@@ -18,7 +18,7 @@ Calltolink: /services
 
 ----
 
-Calltoimage: websites-for-pubs-and-bars.jpg
+Calltoimage: domenico-loia-310197.jpg
 
 ----
 
@@ -26,11 +26,11 @@ Class: homepage
 
 ----
 
-Heading: WEBSITES FOR SMALL BUSINESSES IN PLYMOUTH
+Heading: WEBSITE DESIGN FOR SMALL BUSINESSES
 
 ----
 
-Seotitle: Websites and Social Media Management for small businesses in Plymouth
+Seotitle: Bespoke Website Design for small businesses
 
 ----
 
