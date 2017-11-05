@@ -30,6 +30,12 @@
               </li>
             <?php endforeach ?>
           </ul>
+          <br/>
+            <?php if($page->link()->isNotEmpty()): ?>
+              <center>
+              <a class="call-to-action" target="_blank" title="Visit <?= $page->heading()->html() ?>" href="<?= $page->link() ?> ">Visit website</a>
+              </center>
+            <?php endif ?>
         </div>
         <div class="clearfix"></div>
         <?php if($page->socialsectionheading()->isNotEmpty()): ?>
@@ -80,11 +86,12 @@
     <?php endif ?>
     <div class="clearfix"></div>
       </div>
+      <br/><br/>
     </section>
     
     <section class="content-section call-to-action">
       <div class="wrapper">
-          <p class="section-heading">Not sure where to start? <a href="" class="hire-me-call-to-action" title="Contact me to improve your online strategy">Get in touch!</a></p>
+          <p class="section-heading">Not sure where to start? <a href="/find-out-more-web-design-plymouth" class="hire-me-call-to-action" title="Contact me to improve your online strategy">Get in touch!</a></p>
       </div>
     </section>
   </main>

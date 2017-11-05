@@ -19,7 +19,7 @@
     
     <section class="content-section call-to-action">
       <div class="wrapper">
-          <p class="section-heading">Not sure where to start? <a href="" class="hire-me-call-to-action" title="Contact me to improve your online strategy">Get in touch!</a></p>
+          <p class="section-heading">Not sure where to start? <a href="/contact" class="hire-me-call-to-action" title="Contact me to improve your online strategy">Get in touch!</a></p>
       </div>
     </section>
   </main>

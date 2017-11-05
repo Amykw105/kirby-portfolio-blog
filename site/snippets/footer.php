@@ -9,9 +9,6 @@
             </li>
             <?php endforeach ?>
             <li class="menu-item">
-              <a href="https://twitter.com/aWebStrategy" rel="nofollow" title="A Web Strategy on Twitter">Twitter</a>
-            </li>
-            <li class="menu-item">
               <a href="https://uk.pinterest.com/aWebStrategy/" rel="nofollow" title="A Web Strategy on Pinterest">Pinterest</a>
             </li>
           </ul>

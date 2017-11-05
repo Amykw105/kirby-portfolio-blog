@@ -41,7 +41,8 @@ blockquote {
     }
 }
 /** homepage **/
-.homepage .home-banner{
+.homepage .home-banner,
+.pubs-bars .home-banner{
   min-height: 550px;
   min-height: 80vh;
 }
@@ -312,7 +313,16 @@ body.services{
   color: white;
   position: relative;
 }
-
+.client-content .call-to-action {
+    padding: 10px;
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: inline-block;
+    text-align: center;
+}
+.call-to-action:hover{
+  color: white;
+}
 .homepage .call-to-action:after, .blog-article .call-to-action:after{
   border: none;
 }
@@ -670,7 +680,7 @@ p.cols {
       float: left;
     }
     @media screen and (min-width: $tablet){
-      width: 50%;
+      width: 33.3%;
     }
   }
   a{
