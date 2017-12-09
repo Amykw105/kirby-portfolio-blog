@@ -6,8 +6,8 @@ jQuery(document).ready(function($) {
   $('.slicknav_btn').click(function (event) {
      $('.main-header').toggleClass('open-fixed');
    });
-  
-   
+    window.sr = ScrollReveal();
+    sr.reveal('.text-section .page-title');
 
    $('.swipeboxs').Chocolat();
  });

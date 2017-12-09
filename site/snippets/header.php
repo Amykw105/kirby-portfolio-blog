@@ -101,6 +101,7 @@
   }
 }
 </script>
+
 </head>
 <body class="<?= $page->class() ?>">
 

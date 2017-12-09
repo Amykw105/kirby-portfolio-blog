@@ -38,6 +38,8 @@
   </footer>
   <!-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
   <script type="text/javascript" src="/assets/js/libs.min.js"></script>
+  <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+
   <script type="text/javascript" src="/assets/js/scripts.min.js"></script>
   <!-- Google Analytics -->
   <script>

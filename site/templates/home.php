@@ -36,6 +36,12 @@
       </div>
     </section> 
     
+    <section class="content-section home-portfolio">
+      <div class="large-wrapper"> 
+        <?php snippet('clients', ['limit' => 1]) ?>
+      </div>
+    </section>
+    
     <section class="blog-section content-section">
       <div class="wrappers">
         <div class="text-section">
