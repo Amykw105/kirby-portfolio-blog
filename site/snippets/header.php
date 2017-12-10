@@ -73,7 +73,6 @@
   
   <!-- <link href="https://fonts.googleapis.com/css?family=Copse|Muli" rel="stylesheet"> -->
   <?= css('assets/css/styles.css') ?>
-  
   <script type="text/javascript">
   WebFontConfig = {
     google: { families: [ 'Copse|Muli' ] }

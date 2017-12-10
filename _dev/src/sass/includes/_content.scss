@@ -44,7 +44,7 @@ blockquote {
 .homepage .home-banner,
 .pubs-bars .home-banner{
   min-height: 550px;
-  min-height: 80vh;
+  min-height: 70vh;
 }
 .home-banner{
   padding: 40px 0;
@@ -84,6 +84,7 @@ blockquote {
   max-width: 90%;
   margin: 0 auto;
   animation-name: fadeInUp;
+  text-transform: uppercase;
 }
 .intro-small{
   font-size: 16px;
@@ -145,17 +146,15 @@ blockquote {
   margin: 0;
 }
 .home-blog-posts{
-  width: 100%;
   text-align: center;
   font-size: 14px;
   line-height: 24px;
+  margin: 0 auto 20px;
   font-family: $font-family-sans-serif;
-  min-height: 100px;
   p{
     font-size: 16px;
     line-height: 28px;
     text-align: left;
-    max-width: 90%;
     margin: 0 auto;
     font-weight: lighter;
   }
@@ -167,37 +166,19 @@ blockquote {
       color: $accent;
     }
   }
-  .image {
-    width: 100%;
-    height: 200px;
-    display: block;
-    background-size: cover;
-    background-position: center center;
-    border: solid 20px white;
-  }
   
   @media screen and (min-width: $mobile){
     width: 50%;
     float: left;
-    min-height: 250px;
-  }
-  @media screen and (min-width: $tablet){
-    width: 33.333%;
-    float: left;
-    min-height: 250px;
-  }
-  .overlay{
-    background: rgba(0,0,0,.8);
+    padding: 0 30px;
   }
 }
 .home-blog-title{
   color: white;
   font-weight: 700;
-  font-family: $font-family-sans-serif;
   text-transform: uppercase;
   font-size: 18px;
   line-height: 24px;
-  max-width: 90%;
   margin: 0 auto 10px;
   display: block;
   z-index: 1;
@@ -207,7 +188,6 @@ a.home-blog-link {
     text-transform: uppercase;
     display: block;
     color: $accent;
-    max-width: 90%;
     margin: 0 auto 10px;
     text-align: left;
 }
@@ -639,7 +619,7 @@ body.services{
 
 /** Content **/
 .text-section{
-  padding: 100px 0;
+  padding: 40px 0;
   .page-title{
     margin: 0 0 30px;
     text-transform: uppercase;
