@@ -7,19 +7,15 @@
       <div class="wrapper">
         <div class="banner-content">
           <h1 class="intro-large"><?= $page->heading()->html() ?></h1>
-          <p class="intro-small"><?= $page->intro()->kirbytext() ?></p>
+          <div class="intro-small"><?= $page->intro()->kirbytext() ?></div>
           <a href="<?= $page->calltolink()->html() ?>" class="intro-cta"><?= $page->calltoactionlabel()->html() ?></a>
         </div>
       </div>
     </div>
     <!-- testing ftp server -->
-    <section class="services-section">
-      <div class="wrappers">
-          <?php snippet('showcase', ['limit' => 3]) ?>
-      </div>
-    </section> 
+
     
-    <section class="text-section">
+    <section class="text-section" style="padding-top: 20px">
       
       <div class="wrapper">
           <h2 class="page-title">Plymouth Web Design &amp; Development</h2>
@@ -30,17 +26,11 @@
       </div>
     </section> 
     
-    <section class="services-section">
+        <section class="services-section">
       <div class="wrappers">
-          <?php snippet('showcase', ['offset' => 3]) ?>
+          <?php snippet('showcase', ['limit' => 6]) ?>
       </div>
     </section> 
-    
-    <section class="content-section home-portfolio">
-      <div class="large-wrapper"> 
-        <?php snippet('clients', ['limit' => 1]) ?>
-      </div>
-    </section>
     
     <section class="blog-section content-section">
       <div class="wrappers">
