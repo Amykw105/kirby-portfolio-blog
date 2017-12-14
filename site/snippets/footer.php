@@ -11,13 +11,6 @@
             <li class="menu-item">
               <a href="https://uk.pinterest.com/aWebStrategy/" rel="nofollow" title="A Web Strategy on Pinterest">Pinterest</a>
             </li>
-            <li style="color:#ff611d;">We offer Web Design in the following locations:</li>
-            <li class="menu-item">
-              <a href="/plymouth-web-design" title="Plymouth Web Design">Plymouth Web Design</a>
-            </li>
-            <li class="menu-item">
-              <a href="/totnes-web-design" title="Totnes Web Design">Totnes Web Design</a>
-            </li>
           </ul>
         </div>
       </div>
@@ -30,6 +23,13 @@
               <a href="<?= $service->url() ?>"><?= $service->title()->html() ?></a>
             </li>
             <?php endforeach ?>
+            <li style="color:#ff611d;">We offer Web Design in the following locations:</li>
+            <li class="menu-item">
+              <a href="/plymouth-web-design" title="Plymouth Web Design">Plymouth Web Design</a>
+            </li>
+            <li class="menu-item">
+              <a href="/totnes-web-design" title="Totnes Web Design">Totnes Web Design</a>
+            </li>
           </ul>
         </div>
       </div>
