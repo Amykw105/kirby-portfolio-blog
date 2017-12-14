@@ -12,10 +12,8 @@
         </div>
       </div>
     </div>
-    <!-- testing ftp server -->
 
-    
-    <section class="text-section" style="padding-top: 20px">
+    <section class="text-section">
       
       <div class="wrapper">
           <h2 class="page-title">Plymouth Web Design &amp; Development</h2>
@@ -25,12 +23,14 @@
           You'll also get your own custom content management system so you'll be able to update your website as often as you like. </p>
       </div>
     </section> 
+
     
-        <section class="services-section">
+    <section class="services-section">
       <div class="wrappers">
-          <?php snippet('showcase', ['limit' => 6]) ?>
+          <?php snippet('showcase', ['limit' => 3]) ?>
       </div>
     </section> 
+    
     
     <section class="blog-section content-section">
       <div class="wrappers">
@@ -38,7 +38,7 @@
         <p class="page-title">Latest Blog posts</p>
       </div>
         <!-- <p class="section-heading">the latest from my blog</p> -->
-        <div class="blog-flex-wrapper">
+        <div class="blog-flex-wrapper wrapper">
         <?php  $articles = page('blog')->children()->visible()->sortBy('date', 'desc')->paginate(6); ?>
         <?php foreach($articles as $article): ?>
           <div class="home-blog-posts">
