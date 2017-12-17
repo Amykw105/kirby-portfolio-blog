@@ -58,7 +58,7 @@ gulp.task('libs', () => {
     }))
     .pipe(concat('libs.js'))
     .pipe(rename({suffix: '.min'}))
-    .pipe(uglify())
+  //  .pipe(uglify())
     .pipe(rename({dirname: dist + '/js'}))
     .pipe(gulp.dest('./'))
     .pipe(notify({ message: 'JS libraries compiled' }));
@@ -73,8 +73,8 @@ gulp.task('scripts', () => {
     }))
     .pipe(concat('scripts.js'))
     .pipe(rename({suffix: '.min'}))
-    .pipe(uglify())
-    .pipe(rename({dirname: dist + '/js'}))
+  //  .pipe(uglify())
+    .pipe(rename({dirname: dist + '/js'})) 
     .pipe(gulp.dest('./'))
     .pipe(notify({ message: 'Scripts compiled' }));
 });

@@ -283,6 +283,120 @@ a.home-blog-link {
    background-image: url('/assets/svg/page-speed.svg');
 }
 
+/** Testimonials **/
+section.testimonials {
+    overflow: hidden;
+    background-color: $darkerblue;
+    margin: 120px 0;
+    padding: 30px 0;
+        color: #101727;
+    background-image: url('/kirby/assets/images/web-design-testimonials.jpg');
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    background-attachment: fixed;
+    .overlay{
+      background: #101727;
+      opacity: .1;
+    }
+    .page-title{
+      margin: 0 0 30px;
+      text-transform: uppercase;
+      font-size: 32px;
+      line-height: 48px;
+      text-align: center;
+          color: #101727;
+      z-index: 99;
+    }
+    .name{
+      text-transform: uppercase;
+      font-size: 20px;
+      letter-spacing: 4px;
+      text-align: center;
+    display: block;
+    margin: 20px 0;
+    }
+}
+
+/** Greeting icons **/
+.greeting-intro {
+animation-delay: 3s;
+    text-align: center;
+    @media screen and (min-width: $tablet){
+      max-width: 50%;
+      margin: -40px auto 50px auto;
+    }
+}
+.greeting-wrapper {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  animation-delay: 6s;
+  @media screen and (min-width: $tablet){
+    margin: 0 0 120px;
+  }
+}
+.greeting-header {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #027d8f;
+    font-size: 22px;
+    line-height: 30px;
+}
+.greeting-icon {
+    width: 50%;
+    float: left;
+    text-align: center;
+    opacity: 0;
+    @media screen and (min-width: $tablet){
+      flex: 1;
+    }
+}
+.gi-d{
+  animation-delay: 0.5s;
+}
+.gi-dd{
+  animation-delay: 1s;
+}
+.gi-m{
+  animation-delay: 1.5s;
+}
+
+/** Client showcase **/
+.client-showcase img {
+    max-width: 40%;
+    float: right;
+    vertical-align: middle;
+    display: inline-block;
+}
+p.showcase-copy {
+    float: left;
+    max-width: 55%;
+    font-size: 34px;
+    line-height: 54px;
+}
+p.page-title {
+    width: 50%;
+    float: left;
+    font-size: 40px;
+    line-height: 60px;
+    margin-bottom: 0;
+    margin-top: 0;
+font-weight: bold;
+}
+.client-showcase {
+    background-color: gray;
+    margin: 0 0 50px 0;
+    padding: 30px 0;
+        color: white;
+    background-image: url('/kirby/assets/images/web-design-client-showcase.png');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
 /** services pages **/
 body.services{
   .call-to-action:after{
@@ -633,7 +747,7 @@ body.services{
 .text-section{
   padding: 0px!important;
   .page-title{
-    margin: 0 0 30px;
+    margin: 0 0 70px;
     text-transform: uppercase;
     font-size: 32px;
     line-height: 48px;
