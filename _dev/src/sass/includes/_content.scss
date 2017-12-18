@@ -56,7 +56,8 @@ blockquote {
   background-size: cover;
   border-bottom: 10px solid white;
 }
-.home-banner:after {
+.homepage .home-banner:after,
+.pubs-bars .home-banner:after {
     content: '';
     border-bottom: 100px solid white;
     height: 0;
@@ -365,37 +366,60 @@ animation-delay: 3s;
 
 /** Client showcase **/
 .client-showcase img {
-    max-width: 40%;
-    float: right;
-    vertical-align: middle;
-    display: inline-block;
+  max-width: 100%;
+    @media screen and (min-width: $tablet){
+      max-width: 40%;
+      float: right;
+      vertical-align: middle;
+      display: inline-block;
+    }
 }
-p.showcase-copy {
-    float: left;
-    max-width: 55%;
+.client-showcase p.showcase-copy {
+
     font-size: 34px;
     line-height: 54px;
+    text-shadow: 1px 1px 1px black;
+    @media screen and (min-width: $tablet){
+      float: left;
+      max-width: 55%;
+    }
 }
-p.page-title {
-    width: 50%;
-    float: left;
+.client-showcase p.page-title {
+    text-align: center;
     font-size: 40px;
     line-height: 60px;
     margin-bottom: 0;
     margin-top: 0;
-font-weight: bold;
+    font-weight: bold;
+    @media screen and (min-width: $tablet){
+      width: 50%;
+      float: left;
+      text-align: left;
+    }
 }
 .client-showcase {
     background-color: gray;
     margin: 0 0 50px 0;
     padding: 30px 0;
-        color: white;
+    color: white;
     background-image: url('/kirby/assets/images/web-design-client-showcase.png');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;
     position: relative;
-
+}
+.showcase-copy span {
+    font-weight: bold;
+    color: orange;
+}
+.showcase-copy a {
+    /* background-color: orange; */
+    color: orange;
+    text-shadow: none;
+    padding: 0px 20px 0 0;
+    display: inline-block;
+    font-size: 20px;
+    text-transform: uppercase;
 }
 /** services pages **/
 body.services{

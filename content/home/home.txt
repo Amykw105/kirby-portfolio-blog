@@ -26,16 +26,16 @@ Class: homepage
 
 ----
 
-Heading: Beautiful websites to grow your business
+Heading: BEAUTIFUL WEBSITES TO GROW YOUR BUSINESS
 
 ----
 
-Seotitle: Bespoke Website Design for small businesses
+Seotitle: A Web Strategy  | Plymouth Web Design & Digital Marketing
 
 ----
 
-Seodescription: Website design and development, social media management, search engine optimisation and email marketing to help small businesses succeed online
+Seodescription: We are a Plymouth Web Design agency specialising in bespoke Web Design & Development, SEO & Digital Marketing for small business
 
 ----
 
-Calltoactionlabel: Lets get started
+Calltoactionlabel: FIND OUT MORE

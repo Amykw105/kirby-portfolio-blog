@@ -14,11 +14,11 @@ Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Tea
 
 ----
 
-Seotitle: AW Web Strategy
+Seotitle: A Web Strategy
 
 ----
 
-Seodescription: Affordable and Reliable Web Development, Social Media Marketing, Search Engine Optimisation and Email Marketing for small local businesses.
+Seodescription: Affordable, Bespoke Web Design & Development, Social Media Marketing, Search Engine Optimisation and Email Marketing for small local businesses.
 
 ----
 

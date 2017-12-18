@@ -4,9 +4,15 @@ Title: Services
 
 Text: 
 
+We offer everything you need for a successful digital strategy starting from (link: /services/plymouth-web-design-development text: bespoke website design) and custom development to tailored (link: /services/search-engine-optimisation text: search engine optimisation) to (link: /services/search-engine-optimisation text: social media management). We understand that your focus needs to be on your business which is why we take care of the digital side for you. 
+
+## Web Design Plymouth & Totnes
+
+We are located in (link: /plymouth-web-design text: Plymouth) and Totnes but we are not limited to these locations. We have worked with clients in (link: /clients/jamul-wireless text: America), (link: /clients/fabrizio-fusco-web-design text: London) and even Australia, if you are looking to grow your business online we can help wherever you are!
+
 ----
 
-Seotitle: Web design services for small businesses in Plymouth
+Seotitle: Plymouth Web design services for small businesses
 
 ----
 
@@ -18,4 +24,4 @@ Class: services
 
 ----
 
-Heading: Web design services for small businesses in Plymouth
+Heading: Web design & digital marketing for small businesses

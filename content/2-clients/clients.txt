@@ -2,7 +2,7 @@ Title: Clients
 
 ----
 
-Text: Regardless of budget, every client gets a mobile-friendly responsive website, a bespoke content management system and search engine optimisation built around your brand.
+Text: Regardless of budget, every client gets a mobile-friendly responsive website, a bespoke content management system and search engine optimisation designed around their brand.
 
 ----
 
@@ -10,7 +10,7 @@ Class: clients
 
 ----
 
-Seotitle: Meet my clients and see how I've helped them get online
+Seotitle: Web design clients from around Devon | Web Design Plymouth
 
 ----
 
@@ -18,4 +18,4 @@ Seodescription: All businesses need an online presence, I can help with your web
 
 ----
 
-Heading: Life's too short to have a boring website
+Heading: Website design to stand out and deliver results
