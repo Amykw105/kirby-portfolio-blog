@@ -6,7 +6,9 @@
       <div class="overlay"></div>
       <div class="wrapper">
         <div class="banner-content">
-          <p class="intro-large"><?= $page->title()->html() ?></p>
+          <h1 class="intro-large">BEAUTIFUL WEBSITES TO GROW YOUR BUSINESS</h1>
+          <div class="intro-small"><p>Improve your business through better search visibility, more website traffic &amp; higher conversion rates</p></div>
+          <a href="/services" class="intro-cta">FIND OUT MORE</a>
         </div>
       </div>
     </div>

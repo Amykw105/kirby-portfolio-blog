@@ -15,7 +15,7 @@
       
       <div class="wrapper">
         <br/>
-          <h2 class="page-title">Your brand is unique so your website should be too. </h2>
+          <h2 class="page-title">Your brand is unique.<br/>Your website should be too. </h2>
           <p class="greeting-intro animated fadeInUp">We don't believe in putting your logo onto a template and calling it a day. We take pride in our custom designs and hand-written code. </p>
           <div class="greeting-wrapper">
             <div class="greeting-icon gi-pc">

@@ -291,7 +291,7 @@ section.testimonials {
     margin: 120px 0;
     padding: 30px 0;
         color: #101727;
-    background-image: url('/kirby/assets/images/web-design-testimonials.jpg');
+    background-image: url('/assets/images/web-design-testimonials.jpg');
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
@@ -344,6 +344,9 @@ animation-delay: 3s;
     color: #027d8f;
     font-size: 22px;
     line-height: 30px;
+}
+.services .greeting-icon{
+  opacity: 1!important;
 }
 .greeting-icon {
     width: 50%;
@@ -402,7 +405,7 @@ animation-delay: 3s;
     margin: 0 0 50px 0;
     padding: 30px 0;
     color: white;
-    background-image: url('/kirby/assets/images/web-design-client-showcase.png');
+    background-image: url('/assets/images/web-design-client-showcase.png');
     background-position: top;
     background-size: cover;
     background-repeat: no-repeat;

@@ -18,7 +18,7 @@
       <center>
         <h2 class="content-heading">How can I help?</h2>
         <p>Tell me about your business and what you'd like to achieve with your online strategy.<br/><br/>
-        You'll get a response within 24 hours.</p>
+        You'll get an initial response within 24 hours.</p>
         <br/><br/>
       </center>
       <form method="post" class="contact-form">
