@@ -31,7 +31,7 @@
   "description": "<?= $page->SEOdescription()->html() ?>"
 }
 </script>
-  <main class="main blog-article" role="main">
+  <main class="main blog-article">
     
     <article itemscope itemtype="http://schema.org/Article" class="article single wrap">
       <?php if($page->coverimage()->isNotEmpty()): ?>

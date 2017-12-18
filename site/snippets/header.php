@@ -1,12 +1,10 @@
 <!doctype html>
-<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>">
+<html lang="<?= site()->language() ? site()->language()->code() : 'en' ?>" itemscope itemtype="http://schema.org/WebPage">
 <head>
 
   <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
   <meta name="viewport" content="width=device-width,initial-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes" />
-  <meta http-equiv="cleartype" content="on" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="MobileOptimized" content="320" />
   <meta name="format-detection" content="telephone=no" />
@@ -18,8 +16,6 @@
   <meta name="language" content="en-GB" />
   <meta name="rating" content="General" />
   <meta name="copyright" content="2017" />
-  <meta http-equiv="Pragma" content="no-cache" />
-  <meta name="keywords" content=""/> <!----- ENTER SITE KEY WORDS HERE ----->
   <title><?= $page->SEOtitle()->html() ?></title>
   <?php if($page->SEOdescription()->isNotEmpty()): ?>
     <meta name="description" content="<?= $page->SEOdescription()->html() ?>">
@@ -71,9 +67,8 @@
   <meta name="twitter:site" content="@aWebStrategy">
   <meta name="twitter:creator" content="@aWebStrategy">
   
-  <!-- <link href="https://fonts.googleapis.com/css?family=Copse|Muli" rel="stylesheet"> -->
   <?= css('assets/css/styles.css') ?>
-  <script type="text/javascript">
+  <script>
   WebFontConfig = {
     google: { families: [ 'Copse|Muli' ] }
   };

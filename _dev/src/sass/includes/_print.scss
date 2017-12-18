@@ -1,0 +1,25 @@
+@media print{
+  *{
+    background-image: none!important;
+    color: black!important;
+    background-color: white!important;
+    position: relative!important;
+    text-shadow: none!important;
+    opacity: 1!important;
+  }
+  img{
+    max-width: 500px!important;
+    display: block!important;
+    margin: 0 auto!important;
+  }
+  .home-banner {
+      min-height: auto!important;
+  }
+  section{
+    margin: 0 auto 20px!important;
+  }
+  .greeting-icon{
+    width: 25%!important;
+  }
+  
+}

@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+  <main class="main">
     
     <div class="home-banner" style="background-image: url('<?= $page->files()->first()->url() ?>'); background-position: center center;">
       <div class="overlay"></div>
@@ -17,7 +17,7 @@
       
       <div class="wrapper">
           <h2 class="page-title">Plymouth Web Design &amp; Development</h2>
-          <p class="greeting-intro animated fadeInUp">We take care of the whole <b>web design process</b>, from planning and designing to development and maintenance, to make your brand stand out online.</p>
+          <p class="greeting-intro animated fadeInUp">We take care of the whole <span class="b">web design process</span>, from planning and designing to development and maintenance, to make your brand stand out online.</p>
           <div class="greeting-wrapper">
             <div class="greeting-icon gi-pc">
               <img src="assets/images/web-design-planning.png" alt="Plymouth Web Design - Planning stage"/>
@@ -42,7 +42,7 @@
     
     <section class="client-showcase">
       <div class="wrapper">
-          <p class="page-title">Featured Client</p>
+          <h3 class="page-title">Featured Client</h3>
           <img src="content/2-clients/5-fabrizio-fusco-web-design/fabrizio-fusco-wordpress-web-design.png" alt="Fabrizio Fusco Web Design"/>
           <p class="showcase-copy">Fabrizio Fusco - Life Coach<br/>
           <span>83% Website Speed Increase<br/></span>
@@ -58,8 +58,8 @@
       <div class="wrapper">
           <h3 class="page-title">Web Design with a personal touch</h3>
           <p class="cols">I design and build custom responsive websites and assist with search engine optimisation for small to medium sized businesses. <br/><br/>
-          Our <b>web design & development</b> services are not just limited to Plymouth, Devon. I have worked remotely with small companies in Australia, New Zealand, and also businesses closer to home in Devon.</p>
-          <p class="cols"><b>Bespoke web solutions to promote your business and products online.</b> Each website is designed and built just for your business - no cookie-cutter templates or frameworks - your website will stand out to reach both loyal and new, potential customers. <br/><br/>
+          Our <span class="b">web design & development</span> services are not just limited to Plymouth, Devon. I have worked remotely with small companies in Australia, New Zealand, and also businesses closer to home in Devon.</p>
+          <p class="cols"><span class="b">Bespoke web solutions to promote your business and products online.</span> Each website is designed and built just for your business - no cookie-cutter templates or frameworks - your website will stand out to reach both loyal and new, potential customers. <br/><br/>
           You'll also get your own custom content management system so you'll be able to update your website as often as you like. </p>
       </div>
     </section> 
@@ -67,14 +67,14 @@
     <section class="testimonials ">
       <div class="overlay"></div>
       <div class="wrapper">
-          <h3 class="page-title">Don't just take our word for it..</h3>
+          <h4 class="page-title">Don't just take our word for it..</h4>
           <div class="main-carousel">
               <div class="carousel-cell">
-                <p>"Great person to work with. Communication was great and all messages were responded to very quickly. Amy did a great job of <b>building our website exactly how we wanted</b>. We will definitely hire her again in the future."</p>
+                <p>"Great person to work with. Communication was great and all messages were responded to very quickly. Amy did a great job of <span class="b">building our website exactly how we wanted</span>. We will definitely hire her again in the future."</p>
                 <a href="/clients/jamul-wireless" class="name" title="Web design for Jamul Wireless">Jamul Wireless</a>
               </div>
               <div class="carousel-cell">
-            <p>"It's been a pleasure to work with Amy. She <b>created my website from scratch</b> exactly in the way I asked her. She exactly understood what I was looking for and delivered a <b>high quality product</b>. Communication has been excellent and the job completed in a <b>short timeline</b>."</p>
+            <p>"It's been a pleasure to work with Amy. She <span class="b">created my website from scratch</span> exactly in the way I asked her. She exactly understood what I was looking for and delivered a <span class="b">high quality product</span>. Communication has been excellent and the job completed in a <span class="b">short timeline</span>."</p>
             <a href="/clients/fabrizio-fusco-web-design" class="name" title="Web design for Fabrizio Fusco">Fabrizio Fusco</a>
           </div>
         </div>
@@ -85,7 +85,7 @@
     <section class="blog-section content-section">
       <div class="wrappers">
         <div class="text-section">
-        <p class="page-title">Latest Blog posts</p>
+        <h4 class="page-title">Latest Blog posts</h4>
       </div>
         <!-- <p class="section-heading">the latest from my blog</p> -->
         <div class="blog-flex-wrapper wrapper">

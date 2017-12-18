@@ -35,5 +35,6 @@ if(isset($offset)) $services = $services->offset($offset);
     </li>
 
   <?php endforeach ?>
-  <div class="clearfix"></div>
+  
 </ul>
+<div class="clearfix"></div>

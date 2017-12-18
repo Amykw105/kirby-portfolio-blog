@@ -1,4 +1,4 @@
-<nav class="site-navigation" role="navigation">
+<nav class="site-navigation">
   <ul class="menu">
     <?php foreach($pages->visible() as $item): ?>
     <li class="menu-item<?= r($item->isOpen(), ' is-active') ?>">
